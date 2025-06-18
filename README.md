@@ -1,2 +1,3 @@
-# slotshaven-ddu
-Digitalt Design og Udvikling på Slotshaven Gymnasium HTX i Holbæk
+# Slotshaven DDU
+Digitalt Design og Udvikling på Slotshaven Gymnasium HTX i Holbæk.
+
