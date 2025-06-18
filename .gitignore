@@ -1,2 +1,2 @@
-# Ignore node_modules directory
+# Ignore workspace files
 *.code-workspace
