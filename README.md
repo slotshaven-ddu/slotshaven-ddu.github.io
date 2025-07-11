@@ -1,3 +1,7 @@
+<p align="right">
+<img src="img/slotshaven-logo.png" alt="Alternativ tekst" width="200" style="border-radius: 8px;">
+</p>
+
 # DDU
 Digitalt Design og Udvikling på Slotshaven Gymnasium HTX i Holbæk.
 
@@ -21,17 +25,18 @@ Minikurser introducer et emne eller værktøj som skal bruges i et bestemt forl�
 ## Forløb
 Året indeholder et kortere introduktionsforløb og 5 længere forløb.
 Foreløbig plan
-- Introduktion med arduino
-- Spiludvikling med Unity
-- Machine learning med YOLO
-- (afventer)
-- Eksamensprojekt
+
+0. [Introduktion med Arduino](forloeb/intro-arduino.md)
+1. [Spiludvikling med Unity](forloeb/unity-game.md)
+2. [Machine learning med YOLO](forloeb/machine-learning-yolo.md)
+3. (beskrivelse følger)
+4. Eksamensprojekt
 
 ## Andet indhold
 
 **Minikurser.** 
 En oversigt over minikurser i årets løb. 
-[Minikurser](minikurser.md)
+[Minikurser](minikurser/minikurser.md)
 
 **Bogmærker.** 
 Liste over nyttige referencer og værktøjer. 
@@ -39,4 +44,4 @@ Liste over nyttige referencer og værktøjer.
 
 **Rapportskabelon.**
 En samling tips og tricks til hvordan en god rapport skrives, herunder formalia, struktur, stil, gode råd og brugen af AI.
-[Rapportskabelon](rapportskabelon.md)
+[Rapportskabelon](docs/rapportskabelon.md)
