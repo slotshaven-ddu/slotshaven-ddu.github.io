@@ -1,5 +1,5 @@
 <p align="right">
-<img src="img/slotshaven-logo.png" alt="Alternativ tekst" width="200" style="border-radius: 8px;">
+<img src="img/logo.png" alt="Alternativ tekst" width="200" style="border-radius: 8px;">
 </p>
 
 # DDU

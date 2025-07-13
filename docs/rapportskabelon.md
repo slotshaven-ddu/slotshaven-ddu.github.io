@@ -1,4 +1,4 @@
-<p align="right"><img src="../img/slotshaven-logo.png" alt="Slotshaven logo" width="200" style="border-radius: 8px;"></p>
+<p align="right"><img src="https://slotshaven-ddu.github.io/img/logo.png" width="200"></p>
 
 # Rapportskabelon for DDU
 

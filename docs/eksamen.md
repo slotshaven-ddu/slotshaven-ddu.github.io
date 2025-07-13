@@ -1,6 +1,4 @@
-<p align="right">
-<img src="../img/slotshaven-logo.png" alt="Alternativ tekst" width="200" style="border-radius: 8px;">
-</p>
+<p align="right"><img src="https://slotshaven-ddu.github.io/img/logo.png" width="200"></p>
 
 # Generelt om eksamen (opdateres)
 **Introduktion**. Den følgende beskrivelse bygger på læreplanen for faget. 

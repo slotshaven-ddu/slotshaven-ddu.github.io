@@ -1,15 +1,22 @@
-<p align="right"><img src="../img/slotshaven-logo.png" alt="Slotshaven log" width="200" style="border-radius: 8px;"></p>
+<p align="right"><img src="../img/logo.png" width="200"></p>
 
 # Markdown
 
 ### Logo
-Logo som i dette dokument.
+Logo som i dette dokument, med relativ eller absolut sti.
 ```
-<p align="right"><img src="../img/slotshaven-logo.png" alt="Slotshaven logo" width="200" style="border-radius: 8px;"></p>
+<p align="right"><img src="../img/logo.png" width="200"></p>
+<p align="right"><img src="https://slotshaven-ddu.github.io/img/logo.png" width="200"></p>
 ```
 
-### Højre pil 
-&rarr; `&rarr;`
+### Højre pil &rarr;
+Kopier symbol eller denne kode
+```
+&rarr;
+```
 
-### Link
-&#x2197;&#xFE0F; `&#x2197;&#xFE0F;`
+### Link ↗️
+Kopier symbol eller denne kode (som er Unicode med modifier)
+```
+&#x2197;&#xFE0F;
+```
