@@ -1,4 +1,4 @@
-![Slotshaven logo](img/slotshaven-logo.png)
+<p align="right"><img src="../img/slotshaven-logo.png" alt="Slotshaven logo" width="200" style="border-radius: 8px;"></p>
 
 # Rapportskabelon for DDU
 
@@ -345,7 +345,6 @@ Eksempler på kategorier: Database, Kode, Frontend, Interaktion, Rapport, Test o
 **Estimat.** Hvor lang tid tager opgaven? 
 
 **Vigtighed.** Need-to-have, Nice-to-have, MVP osv. Oplagt kandidat til et label.
-
 
 
 
