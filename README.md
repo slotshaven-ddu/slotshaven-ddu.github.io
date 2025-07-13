@@ -42,6 +42,6 @@ En oversigt over minikurser i årets løb.
 
 **Bogmærker.** 
 Liste over nyttige referencer og værktøjer. 
-[Bogmærker ↗️](bogmaerker.md)
+[Bogmærker ↗️](docs/bogmaerker.md)
 
 
