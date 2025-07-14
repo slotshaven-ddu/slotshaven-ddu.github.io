@@ -1,11 +1,12 @@
-<p align="right"><img src="https://slotshaven-ddu.github.io/img/logo.png" width="200"></p>
-
 # Bogmærker
 
 ## Værktøjer
 **Versionstyring.**\
 Det forventes at alle formår at bruge GitHub til versionsstyring af kode.\
 [GitHub ↗️](github.org)
+
+Til det formål kan man benytte GitHub Desktop som er nemmere at bruge end kommandolinjeværktøjet _git_.\
+(GitHub Desktop)[https://github.com/apps/desktop ↗️]
 
 **Kodeeditor.**\
 Vi bruger Visual Studio Code til kodeudvikling.\
@@ -30,15 +31,15 @@ I forløbet med spiludvikling bruger vi Unity.\
 ## Vejledninger
 **Rapportskabelon.**\
 En samling tips og tricks til hvordan en god rapport skrives, herunder formalia, struktur, stil, gode råd og brugen af AI.\
-[Rapportskabelon ↗️](../docs/rapportskabelon.md)
+[Rapportskabelon ↗️](../sider/rapportskabelon.md)
 
 **Generelt om eksamen.**\
 En generel beskrivelse af det afsluttende eksamensprojekt.\
-[Eksamen ↗️](../docs/eksamen.md)
+[Eksamen ↗️](../sider/eksamen.md)
 
 **Markdown.**\
 Tips og tricks til brugen markdown.\
-[Markdown ↗️](../docs/markdown.md)
+[Markdown ↗️](../sider/markdown.md)
 
 ## Andet materiale
 **DDU Wordpress site.**\
