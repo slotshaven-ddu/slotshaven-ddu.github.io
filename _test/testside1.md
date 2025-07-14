@@ -35,8 +35,9 @@ Direkte link til side med markdown\
 Markdown liste
 {% for mdpage in site.test %}
 
-- {{ mkpage.title }}
-- {{ mkpage.author }}
-- {{ mkpage.url %}
+- {{ mdpage.title }}
+- {{ mdpage.author }}
+- [Link]({% link mdpage.url %})
+
     
 {% endfor %}
