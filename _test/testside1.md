@@ -7,7 +7,6 @@ author: ERL
 <p align="right"><img src="logo.png" width="200"></p>
 
 # {{ page.title }}
-{% include footer.html %}
 
 ## Test af links
 
@@ -22,7 +21,7 @@ Loop gennem alle side i collection.\
     <li>
       <h2>{{ pages.title }}</h2>
       <p>{{ pages.author }}</p>
-      <p>{% page.url %}</p>
+      <p>{% pages.url %}</p>
     </li> 
   {% endfor %}
 </ul>
@@ -38,6 +37,6 @@ Markdown liste
 
 - {{ pages.title }}
 - {{ pages.author }}
-- {% page.url %}
+- {% pages.url %}
     
 {% endfor %}
