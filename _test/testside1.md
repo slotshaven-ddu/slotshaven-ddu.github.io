@@ -4,15 +4,11 @@ published: true
 permalink: /test
 author: ERL
 ---
-<p align="right"><img src="logo.png" width="200"></p>
+<p align="right"><img src="assets/logo.png" width="200"></p>
 
 # {{ page.title }}
 
 ## Test af links
-
-### HTML: Direkte link
-Side i collection med "link"\
-{% link _test/testside2.md %}
 
 ### HTML: liste
 Loop gennem alle sider i collection.\

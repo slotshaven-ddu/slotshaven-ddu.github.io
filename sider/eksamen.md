@@ -1,5 +1,6 @@
-<p align="right"><img src="https://slotshaven-ddu.github.io/img/logo.png" width="200"></p>
-
+---
+author: MKM
+---
 # Generelt om eksamen (opdateres)
 **Introduktion**. Den følgende beskrivelse bygger på læreplanen for faget. 
 [Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf) 

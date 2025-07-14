@@ -1,5 +1,6 @@
-<p align="right"><img src="https://slotshaven-ddu.github.io/img/logo.png" width="200"></p>
-
+---
+author: MKM
+---
 # Rapportskabelon for DDU
 
 **Indledning**. Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
