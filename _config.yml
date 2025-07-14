@@ -6,3 +6,9 @@ collections:
   test:
     output: true
   
+defaults:
+  - scope:
+      path: ""
+      type: test  # Name of the collection
+    values:
+      theme: default
