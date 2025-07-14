@@ -28,9 +28,9 @@ Minikurser introducer et emne eller værktøj som skal bruges i et bestemt forl�
 Året indeholder et kortere introduktionsforløb og 5 længere forløb.
 Foreløbig plan
 
-0. [Introduktion med Arduino ↗️]({% link _forlob/intro-arduino.md %})
-1. [Spiludvikling med Unity ↗️]({% link _forlob/unity-game.md %})
-2. [Machine learning med YOLO ↗️]({% link _forlob/machine-learning-yolo.md %})
+0. [Introduktion med Arduino ↗️](forloeb/intro-arduino.md)
+1. [Spiludvikling med Unity ↗️](forloeb/unity-game.md)
+2. [Machine learning med YOLO ↗️](forloeb/machine-learning-yolo.md) 
 3. (beskrivelse følger)
 4. Eksamensprojekt
 
