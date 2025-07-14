@@ -15,13 +15,13 @@ Side i collection med "link"\
 {% link _test/testside2.md %}
 
 ### HTML: liste
-Loop gennem alle side i collection.\
+Loop gennem alle sider i collection.\
 <ul>
-  {% for pages in site.test %}
+  {% for htmlpage in site.test %}
     <li>
-      <h2>{{ pages.title }}</h2>
-      <p>{{ pages.author }}</p>
-      <p>{% pages.url %}</p>
+      <h2>{{ htmlpage.title }}</h2>
+      <p>{{ htmlpage.author }}</p>
+      <p>{% link htmlpage.url %}</p>
     </li> 
   {% endfor %}
 </ul>
@@ -33,10 +33,10 @@ Direkte link til side med markdown\
 
 ### Markdown: liste
 Markdown liste
-{% for pages in site.test %}
+{% for mdpage in site.test %}
 
-- {{ pages.title }}
-- {{ pages.author }}
-- {% pages.url %}
+- {{ mkpage.title }}
+- {{ mkpage.author }}
+- {{ mkpage.url %}
     
 {% endfor %}

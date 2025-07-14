@@ -5,4 +5,6 @@ permalink: /om-ddu
 author: MKM
 ---
 # {{ page.title }}
+
+## Test af include med footer.html
 {% include footer.html %}
