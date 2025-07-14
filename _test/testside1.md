@@ -21,7 +21,7 @@ Loop gennem alle sider i collection.\
     <li>
       <h2>{{ htmlpage.title }}</h2>
       <p>{{ htmlpage.author }}</p>
-      <p>{% link htmlpage.url %}</p>
+      <p><a href="{{ htmlpage.url | relative_url }}">{{ htmlpage.title }}</a></p>
     </li> 
   {% endfor %}
 </ul>
@@ -37,7 +37,7 @@ Markdown liste
 
 - {{ mdpage.title }}
 - {{ mdpage.author }}
-- [Link]({% link mdpage.url %})
+- [Link]({% mdpage.url | relative_url }%})
 
     
 {% endfor %}
