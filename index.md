@@ -1,7 +1,7 @@
-<p align="right">
-<img src="img/logo.png" alt="Alternativ tekst" width="200" style="border-radius: 8px;">
-</p>
-
+---
+title: DDU
+author: mkm
+---
 # DDU
 Digitalt Design og Udvikling på Slotshaven Gymnasium HTX i Holbæk.
 
@@ -11,7 +11,7 @@ Hvert forløb afsluttes med at der afleveres en rapport.
 
 Eksamensprojektet, som afslutter skoleåret, er også gruppebaseret. Her får man 80 timer til at udvikle et færdigt produkt som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
 
-[Læs mere om eksamen ↗️](docs/eksamen.md)
+[Læs mere om eksamen ↗️](sider/eksamen.md)
 
 ## Temaer
 ### Valgtemaer
@@ -28,9 +28,9 @@ Minikurser introducer et emne eller værktøj som skal bruges i et bestemt forl�
 Året indeholder et kortere introduktionsforløb og 5 længere forløb.
 Foreløbig plan
 
-0. [Introduktion med Arduino ↗️](forloeb/intro-arduino.md)
-1. [Spiludvikling med Unity ↗️](forloeb/unity-game.md)
-2. [Machine learning med YOLO ↗️](forloeb/machine-learning-yolo.md) 
+0. [Introduktion med Arduino ↗️]({% link _forlob/intro-arduino.md %})
+1. [Spiludvikling med Unity ↗️]({% link _forlob/unity-game.md %})
+2. [Machine learning med YOLO ↗️]({% link _forlob/machine-learning-yolo.md %})
 3. (beskrivelse følger)
 4. Eksamensprojekt
 
@@ -42,6 +42,6 @@ En oversigt over minikurser i årets løb.
 
 **Bogmærker.** 
 Liste over nyttige referencer og værktøjer. 
-[Bogmærker ↗️](docs/bogmaerker.md)
+[Bogmærker ↗️](sider/bogmaerker.md)
 
 
