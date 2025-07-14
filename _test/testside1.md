@@ -37,7 +37,7 @@ Markdown liste
 
 - {{ mdpage.title }}
 - {{ mdpage.author }}
-- [Link]({% mdpage.url | relative_url }%})
+- [Link]({% mdpage.url | relative_url %})
 
     
 {% endfor %}
