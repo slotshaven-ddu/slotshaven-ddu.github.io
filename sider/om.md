@@ -19,18 +19,6 @@ Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer ti
 Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 
 {% for item in site.data.links %}
-  {% if item.source == "uvm" %}
-    <section>
-      <h2>{{ item.name }}</h2>
-      <p>{{ item.description }}</p>
-      <p><a href="{{ item.link }}" target="_blank" rel="noopener">PDF ↗️</a></p>
-    </section>
-  {% endif %}
-{% endfor %}
-
-Samme liste som skrevet i markdown:
-
-{% for item in site.data.links %}
 {% if item.source == "uvm" %}
 
 ### {{ item.name }}

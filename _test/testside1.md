@@ -38,3 +38,32 @@ Markdown liste
 
     
 {% endfor %}
+
+## Liquid
+Når man indsætter liquid, skal det **IKKE** indrykkes.
+Indrykket liquid betyder at markdown fortolker det som **KODE**
+
+Således: 
+{% for item in site.data.links %}
+{% if item.source == "uvm" %}
+  <section>
+    <h2>{{ item.name }}</h2>
+    <p>{{ item.description }}</p>
+    <p><a href="{{ item.link }}" target="_blank" rel="noopener">PDF ↗️</a></p>
+  </section>
+{% endif %}
+{% endfor %}
+
+Samme liste skrevet i markdown:
+
+{% for item in site.data.links %}
+{% if item.source == "uvm" %}
+
+### {{ item.name }}
+
+{{ item.description }}
+
+[PDF ↗️]({{ item.link }}){:target="_blank" rel="noopener"}
+
+{% endif %}
+{% endfor %}
