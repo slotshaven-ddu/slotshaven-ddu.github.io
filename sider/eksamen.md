@@ -1,11 +1,14 @@
 ---
 author: MKM
+title: Eksamen (opdateres)
+description: '- alt om det afsluttende eksamenprojekt'
 ---
-# Generelt om eksamen (opdateres)
-**Introduktion**. Den følgende beskrivelse bygger på læreplanen for faget. 
+## Introduktion
+Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er. 
+
+Beskrivelsen bygger på læreplanen for faget\ 
 [Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf) 
 
-Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er. 
 
 ## Eksamensform
 Eksamensprojektet udarbejdes med afsæt i et projektoplæg stillet af vejlederne. Projektet består af en rapport og tilhørende produkt.

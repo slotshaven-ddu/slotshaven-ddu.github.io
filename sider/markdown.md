@@ -1,8 +1,13 @@
 ---
 author: MKM
+title: Markdown
+description: '- HTML på den simple måde'
 ---
-# Markdown
+## Indledning
+Markdown er ikke et formateringssprog.
 
+
+## Symboler
 ### Logo
 Logo som i dette dokument, med relativ eller absolut sti.
 ```

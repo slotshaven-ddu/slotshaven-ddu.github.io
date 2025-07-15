@@ -1,6 +1,12 @@
 - name: Hjem
   link: /
-- name: Om DDU
-  link: /om.html
+- name: Værktøjer
+  link: /sider/bogmaerker.html
+- name: Minikurser
+  link: /sider/minikurser.html
+- name: Testside 1
+  link: /test
 - name: Bogmærker
   link: /sider/bogmaerker.html
+- name: Om DDU
+  link: /om.html

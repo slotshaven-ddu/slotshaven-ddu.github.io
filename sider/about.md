@@ -1,7 +1,7 @@
 ---
-title: Om Digitalt Design og Udvikling på Slotshaven Gymnasium
+title: Om Digitalt Design og Udvikling
+description: 
 published: yes
 permalink: /om
 ---
-# {{ page.title }}
 {% include footer.html %}

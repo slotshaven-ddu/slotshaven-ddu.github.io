@@ -1,5 +1,7 @@
-# Minikurser
-
+---
+title: Minikurser
+description: '- introduktion til nyttig basisviden'
+---
 Siden bliver løbende opdateret. 
 
 ## Projektstyring

@@ -1,10 +1,11 @@
 ---
-author: MKM
+title: Rapportskabelon
+description: '- struktur og formalia'
 ---
-# Rapportskabelon for DDU
+## Indledning
+Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
 
-**Indledning**. Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
-
+## Struktur 
 Som udgangspunkt indeholder en tekniksfagsrapport i DDU følgende kapitler:
 - [Projektbeskrivelse](#kapitel-projektbeskrivelse)  med problemformulering
 - [Problemanalyse](#kapitel-problemanalyse)
