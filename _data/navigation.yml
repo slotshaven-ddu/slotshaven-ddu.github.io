@@ -1,0 +1,6 @@
+- name: Hjem
+  link: /
+- name: Om DDU
+  link: /om.html
+- name: Bogmærker
+  link: /sider/bogmaerker.html

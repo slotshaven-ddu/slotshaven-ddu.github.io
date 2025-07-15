@@ -1,5 +1,5 @@
 ---
-title: DDU
+title: Digitalt Design og Udvikling
 author: mkm
 ---
 # DDU

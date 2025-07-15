@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Test-side
 published: true
 permalink: /test
