@@ -5,7 +5,7 @@
 - name: GitHub Desktop
   category: Versionstyring
   description: GitHub Desktop er nemmere at bruge end kommandolinjeværktøjet git
-  link: https://github.com/apps/desktop
+  link: https://github.com/apps/desktop/
 - name: Visual Studio Code
   category: kode
   description: Vi bruger Visual Studio Code til kodeudvikling

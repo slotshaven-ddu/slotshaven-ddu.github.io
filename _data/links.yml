@@ -1,0 +1,18 @@
+- name: Slotshaven Gymnasium
+  id: slotshaven
+  category: general
+  source: slotshaven
+  description: Slotshavens hjemmeside
+  link: https://www.slotshaven.dk/
+- name: Læreplan
+  id: laereplan
+  category: regler
+  source: uvm
+  description: Undervisningsministeriet læreplan for DDU (2017)
+  link: https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf
+- name: Vejledning til læreplan
+  id: vejledninglaereplan
+  category: regler
+  source: uvm
+  description: Undervisningsministeriet vejledning til læreplan for DDU (2024)
+  link: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf24/aug/vejledninger/240807vejledning-teknikfag-a-digitalt-design-og-udvikling--htx-2024.pdf

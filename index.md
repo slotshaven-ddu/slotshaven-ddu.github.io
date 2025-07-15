@@ -2,16 +2,7 @@
 title: Digitalt Design og Udvikling
 author: mkm
 ---
-# DDU
-Digitalt Design og Udvikling på Slotshaven Gymnasium HTX i Holbæk.
 
-## Om faget
-I DDU arbejder man projektorienteret i længere forløb. Der er dermed mindre tavleundervining end i andre fag. Al projektarbejde foregår i grupper.
-Hvert forløb afsluttes med at der afleveres en rapport. 
-
-Eksamensprojektet, som afslutter skoleåret, er også gruppebaseret. Her får man 80 timer til at udvikle et færdigt produkt som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
-
-[Læs mere om eksamen ↗️](sider/eksamen.md)
 
 ## Temaer
 ### Valgtemaer
@@ -33,15 +24,5 @@ Foreløbig plan
 2. [Machine learning med YOLO ↗️](forloeb/machine-learning-yolo.md) 
 3. (beskrivelse følger)
 4. Eksamensprojekt
-
-## Andet indhold
-
-**Minikurser.** 
-En oversigt over minikurser i årets løb. 
-[Minikurser ↗️](minikurser/minikurser.md)
-
-**Bogmærker.** 
-Liste over nyttige referencer og værktøjer. 
-[Bogmærker ↗️](sider/bogmaerker.md)
 
 
