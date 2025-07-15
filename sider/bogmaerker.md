@@ -23,7 +23,7 @@ I machine learning anvendes der Python 3.\
 [Python ↗️](https://www.python.org)
 
 **Machine Learning.**\
-I machine learning arbejdes der med YOLO fra Ultralytics, et python-framework til objektgenkendelse.\
+I machine learning arbejdes der med YOLO fra Ultralytics, et python-framework til visuel objektgenkendelse.\
 [YOLO ↗️](https://docs.ultralytics.com/)
 
 **Spiludvikling.**\
