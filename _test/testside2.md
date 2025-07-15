@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Om Digitalt Design og Udvikling på Slotshaven Gymnasium
+title: Testside 2
 published: yes
 permalink: /test2
 author: MKM
