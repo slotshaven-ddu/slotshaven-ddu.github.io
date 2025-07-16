@@ -6,9 +6,11 @@ collections:
   test:
     output: true
   minikurser:
-    output: true 
+    output: true
+    layout: default
   forloeb:
-    output: true 
+    output: true
+    layout: default
 defaults:
   - scope:
       path: ""
