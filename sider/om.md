@@ -31,4 +31,4 @@ Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 {% endfor %}
 
 ## Bogmærker
-Se også {% link sider/bogmaerker.md %}
+Se også [bogmærker]({% link sider/bogmaerker.md %}).

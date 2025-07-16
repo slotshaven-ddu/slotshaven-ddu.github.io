@@ -5,10 +5,24 @@ theme: jekyll-theme-cayman
 collections:
   test:
     output: true
-  
+  minikurser:
+    output: true 
+  forloeb:
+    output: true 
 defaults:
+  - scope:
+      path: ""
+      type: forloeb  # Name of the collection
+    values:
+      published: true
+  - scope:
+      path: ""
+      type: minikurser  # Name of the collection
+    values:
+      published: true
   - scope:
       path: ""
       type: test  # Name of the collection
     values:
-      theme: default
+      published: true
+      layout: default # Change this if you want a different layout for the test collection

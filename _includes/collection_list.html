@@ -1,0 +1,11 @@
+{% assign collection = site[include.collection] %}
+<ul>
+  {% for item in collection %}
+    <li>
+      <h2>{{ item.title }}</h2>
+      {% if item.description %}
+        <p>{{ item.description }}</p>
+      {% endif %}
+      <a href="{{ item.url | relative_url }}">{{ item.url | relative_url }}</a>
+    </li>
+  {% endfor %}
