@@ -3,14 +3,14 @@
   id: laereplan
   category: regler
   source: uvm
-  description: Undervisningsministeriet læreplan for DDU (2017)
+  description: Undervisningsministeriet læreplan for DDU (2017).
   link: https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf
 - name: Vejledning til læreplan
   published: true
   id: vejledninglaereplan
   category: regler
   source: uvm
-  description: Undervisningsministeriet vejledning til læreplan for DDU (2024)
+  description: Undervisningsministeriet vejledning til læreplan for DDU (2024).
   link: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf24/aug/vejledninger/240807vejledning-teknikfag-a-digitalt-design-og-udvikling--htx-2024.pdf
 - name: DDU Wordpress site
   published: true
@@ -19,12 +19,12 @@
   source: ddu
   description: Websted
   link:  https://digitalteknik.slotshaven.it/wordpress/
-- name: Rapportdisposition  
+- name: Alternativ rapportdisposition
   published: true
   id: glrapportdisposition
   category: rapport
   source: ddu
-  description: Et tidligere dispositionsoplæg for eksamensrapporten af ERL.\
+  description: Et tidligere dispositionsoplæg for eksamensrapporten af ERL.
   link: https://digitalteknik.slotshaven.it/wordpress/eksamensprojekt-disposition-for-rapporten
 - name: DDU gl. repo
   published: true
@@ -38,7 +38,7 @@
   id: digitaltdesignlyngby
   category: general
   source: lyngby
-  description: Website for DDU på HCØ Tec i Lyngby
+  description: Website for DDU på HCØ Tec i Lyngby.
   link: https://digitaltdesignlyngby.github.io/
 - name: Minikurser på KMG
   published: true
@@ -52,5 +52,5 @@
   id: slotshaven
   category: general
   source: slotshaven
-  description: Slotshaven Gymnasiums hjemmeside
+  description: Slotshaven Gymnasiums hjemmeside.
   link: https://www.slotshaven.dk/

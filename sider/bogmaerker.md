@@ -8,11 +8,9 @@ Samling af eksterne sider.
 
 {% for item in site.data.links %}
 
-### {{ item.name }}
+**[↗️ {{ item.name }}]({{ item.link }}){:target="_blank" rel="noopener"}**
 
 {{ item.description }}
-
-[↗️ PDF]({{ item.link }}){:target="_blank" rel="noopener"}
 
 {% endfor %}
 
