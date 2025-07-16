@@ -7,21 +7,23 @@ collections:
     output: true
   minikurser:
     output: true
-    layout: default
+    permalink: /forloeb/:name/
   forloeb:
     output: true
-    layout: default
+    permalink: /forloeb/:name/
 defaults:
   - scope:
       path: ""
       type: forloeb  # Name of the collection
     values:
       published: true
+      layout: default
   - scope:
       path: ""
       type: minikurser  # Name of the collection
     values:
       published: true
+      layout: default
   - scope:
       path: ""
       type: test  # Name of the collection

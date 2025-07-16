@@ -3,13 +3,13 @@
   Usage: {% include collection_list.html collection="forloeb" %}
 {%- endcomment -%}
 
-{% assign collection = site[include.collection] | sort: "order" %}
-<ul>
+<section class="collection-list">
+  {% assign collection = site[include.collection] | sort: "order" %}
   {% for item in collection %}
-    <li>
+    <article class="collection-item">
       <h2>{{ item.title | default: "[Ingen titel]" }}</h2>
       <p>{{ item.description | default: "[Ingen beskrivelse]." }}</p>
       <a href="{{ item.url | relative_url }}">Læs mere</a>
-    </li>
+    </article>
   {% endfor %}
-</ul>
+</section>
