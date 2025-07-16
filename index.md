@@ -25,4 +25,4 @@ Foreløbig plan
 3. Forløb 3 - beskrivelse følger 
 4. [↗ Eksamensprojekt](/forloeb/eksamensprojekt.md)
 
-Se også [🔗 siden med forløb]({% link forloeb.md %}).
+Se også [🔗 oversigten over forløb.]({% link sider/forloeb.md %}).
