@@ -33,7 +33,7 @@
   source: ddu
   description: Gammelt GitHub-repository for DDU, ikke længere i brug.
   link: https://github.com/Slotshaven-digitek-2020
--name: Digital Design HCØ Tec i Lyngby
+- name: Digital Design HCØ Tec i Lyngby
   published: true
   id: digitaltdesignlyngby
   category: general
