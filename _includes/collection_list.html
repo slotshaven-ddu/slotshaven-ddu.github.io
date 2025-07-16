@@ -1,11 +1,15 @@
+{%- comment -%}
+  This include renders a list of items from the specified collection.
+  Usage: {% include collection_list.html collection="forloeb" %}
+{%- endcomment -%}
+
 {% assign collection = site[include.collection] %}
 <ul>
   {% for item in collection %}
     <li>
-      <h2>{{ item.title }}</h2>
-      {% if item.description %}
-        <p>{{ item.description }}</p>
-      {% endif %}
-      <a href="{{ item.url | relative_url }}">{{ item.url | relative_url }}</a>
+      <h2>{{ item.title | default: "Untitled item" }}</h2>
+      <p>{{ item.description | default: "No description available." }}</p>
+      <a href="{{ item.url | relative_url }}">Læs mere</a>
     </li>
   {% endfor %}
+</ul>
