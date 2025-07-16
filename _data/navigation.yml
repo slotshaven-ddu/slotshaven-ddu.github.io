@@ -1,10 +1,10 @@
 - name: Hjem
   link: /
 - name: Forløb
-  link: /sider/forloeb.html
+  link: /forloeb
 - name: Minikurser
-  link: /sider/minikurser.html
+  link: /minikurser
 - name: Værktøjer
-  link: /sider/vaerktoejer.html
+  link: /vaerktoejer
 - name: Om DDU
-  link: /om.html
+  link: /om

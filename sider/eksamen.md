@@ -2,6 +2,7 @@
 author: MKM
 title: Eksamen (opdateres)
 description: '- alt om det afsluttende eksamenprojekt'
+permalink: /eksamen
 ---
 ## Introduktion
 Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er. 

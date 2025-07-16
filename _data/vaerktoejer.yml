@@ -1,28 +1,28 @@
 - name: GitHub
   category: Versionstyring
   description: Det forventes at alle formår at bruge GitHub til versionsstyring af kode.
-  link: https://github.com/
+  url: https://github.com/
 - name: GitHub Desktop
   category: Versionstyring
   description: GitHub Desktop er nemmere at bruge end kommandolinjeværktøjet git
-  link: https://github.com/apps/desktop/
+  url: https://github.com/apps/desktop/
 - name: Visual Studio Code
   category: kode
   description: Vi bruger Visual Studio Code til kodeudvikling
-  link: https://code.visualstudio.com/
+  url: https://code.visualstudio.com/
 - name: Trello
   category: Projektstyring
   description: Det forventes at der anvendes struktureret projektstyring i alle grupper. Vi bruger som udgangspunkt Trello.
-  link: https://trello.com/
+  url: https://trello.com/
 - name: Python
   category: Programmering
   description: I machine learning anvendes der Python 3.
-  link: https://www.python.org/
+  url: https://www.python.org/
 - name: YOLO
   category: Machine Learning
   description: I ML arbejdes der med YOLO fra Ultralytics, et python-framework til visuel objektgenkendelse
-  link: https://docs.ultralytics.com/
+  url: https://docs.ultralytics.com/
 - name: Unity
   category: Spiludvikling
   description: I forløbet med spiludvikling bruger vi Unity
-  link: https://unity.com/
+  url: https://unity.com/

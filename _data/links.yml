@@ -4,53 +4,53 @@
   category: regler
   source: uvm
   description: Undervisningsministeriet læreplan for DDU (2017).
-  link: https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf
+  url: https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf
 - name: Vejledning til læreplan
   published: true
   id: vejledninglaereplan
   category: regler
   source: uvm
   description: Undervisningsministeriet vejledning til læreplan for DDU (2024).
-  link: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf24/aug/vejledninger/240807vejledning-teknikfag-a-digitalt-design-og-udvikling--htx-2024.pdf
+  url: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf24/aug/vejledninger/240807vejledning-teknikfag-a-digitalt-design-og-udvikling--htx-2024.pdf
 - name: DDU Wordpress site
   published: true
   id: wordpress
   category: wordpress
   source: ddu
   description: Websted
-  link:  https://digitalteknik.slotshaven.it/wordpress/
+  url:  https://digitalteknik.slotshaven.it/wordpress/
 - name: Alternativ rapportdisposition
   published: true
   id: glrapportdisposition
   category: rapport
   source: ddu
   description: Et tidligere dispositionsoplæg for eksamensrapporten af ERL.
-  link: https://digitalteknik.slotshaven.it/wordpress/eksamensprojekt-disposition-for-rapporten
+  url: https://digitalteknik.slotshaven.it/wordpress/eksamensprojekt-disposition-for-rapporten
 - name: DDU gl. repo
   published: true
   id: glgithubrepo
   category: github
   source: ddu
   description: Gammelt GitHub-repository for DDU, ikke længere i brug.
-  link: https://github.com/Slotshaven-digitek-2020
+  url: https://github.com/Slotshaven-digitek-2020
 - name: Digital Design HCØ Tec i Lyngby
   published: true
   id: digitaltdesignlyngby
   category: general
   source: lyngby
   description: Website for DDU på HCØ Tec i Lyngby.
-  link: https://digitaltdesignlyngby.github.io/
+  url: https://digitaltdesignlyngby.github.io/
 - name: Minikurser på KMG
   published: true
   id: minikurserkmg
   category: Minikurser på KMG
   source: kmg
   description: Minikurser på KMG, der kan bruges som inspiration til egne minikurser.
-  link: https://www.dropbox.com/scl/fi/8kwauy7k7vxc10f0yjjii/Indholdsfortegnelse.paper/
+  url: https://www.dropbox.com/scl/fi/8kwauy7k7vxc10f0yjjii/Indholdsfortegnelse.paper/
 - name: Slotshaven Gymnasium
   published: false
   id: slotshaven
   category: general
   source: slotshaven
   description: Slotshaven Gymnasiums hjemmeside.
-  link: https://www.slotshaven.dk/
+  url: https://www.slotshaven.dk/
