@@ -4,7 +4,7 @@ description: '- introduktion til nyttig basisviden'
 ---
 Siden bliver løbende opdateret. 
 
-{% include collection_list.html collection="minikurser" %}
+
 
 ## Projektstyring
 (beskrivelse følger)
