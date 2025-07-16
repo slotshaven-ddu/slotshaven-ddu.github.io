@@ -15,7 +15,7 @@ Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer ti
 
 ## Slotshaven
 
-## Læreplan
+## Læreplaner
 Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 
 {% for item in site.data.links %}
@@ -25,7 +25,10 @@ Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 
 {{ item.description }}
 
-[PDF ↗️]({{ item.link }}){:target="_blank" rel="noopener"}
+[↗️ PDF]({{ item.link }}){:target="_blank" rel="noopener"}
 
 {% endif %}
 {% endfor %}
+
+## Bogmærker
+Se også {% link sider/bogmaerker.md %}
