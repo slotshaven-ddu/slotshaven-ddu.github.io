@@ -13,14 +13,3 @@ Samling af eksterne sider.
 {{ item.description }}
 
 {% endfor %}
-
-## Vejledninger
-
-**Markdown.**\
-Tips og tricks til brugen markdown.\
-[Markdown ↗️](../sider/markdown.md)
-
-**Rapportdisposition.**\
-Et tidligere dispositionsoplæg for eksamensrapporten af ERL.\
-[Dispositionsoplæg ↗️](https://digitalteknik.slotshaven.it/wordpress/eksamensprojekt-disposition-for-rapporten)
-
