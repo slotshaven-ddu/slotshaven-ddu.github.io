@@ -1,5 +1,5 @@
 <section class="links">
-{% assign links = site.data.links | where_exp: "item", "item.published == 'true' and item.category == 'ebog'" %}
+{% assign links = site.data.links | where: "category", "ebog" %}
 <ul>
 {% for item in links %}
   <li>
