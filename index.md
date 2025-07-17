@@ -26,3 +26,6 @@ Foreløbig plan
 4. [Eksamensprojekt ↗](/_forloeb/eksamensprojekt.md)
 
 Se også [oversigten over forløb 🔗]({% link sider/forloeb.md %}).
+
+## Grundbøger
+{% include eboeger.html %}

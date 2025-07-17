@@ -47,6 +47,27 @@
   source: kmg
   description: Minikurser på KMG, der kan bruges som inspiration til egne minikurser.
   url: https://www.dropbox.com/scl/fi/8kwauy7k7vxc10f0yjjii/Indholdsfortegnelse.paper/
+- name: 'E-bog Digitalt design og udvikling - et teknikfag'
+  published: true
+  id: ddubog
+  category: ebog
+  source: systime
+  description: Systimes e-grundbog om Digitalt design og udvikling.
+  url: https://ddu.systime.dk/
+- name: Projektarbejdet (Systime)
+  published: true
+  id: projektarbejdet
+  category: ebog
+  source: systime
+  description: Systimes e-bog om projektarbejde, metoder og værktøjer til gymnasiet.
+  url: https://projektarbejdet.systime.dk/
+- name: 'E-bog Computerspil - design og udvikling'
+  published: true
+  id: computerspilbog
+  category: ebog
+  source: systime
+  description: Systimes e-grundbog om design og udvikling af computerspil.
+  url: https://computerspil.systime.dk/
 - name: Slotshaven Gymnasium
   published: false
   id: slotshaven
