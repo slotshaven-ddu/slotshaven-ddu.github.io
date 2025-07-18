@@ -14,6 +14,7 @@ Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer ti
 [Læs mere om eksamen ↗️](sider/eksamen.md)
 
 ## Slotshaven
+Undervisning foregår i lokale 73 og nogle gange i værkstedet i kælderen. 
 
 ## Læreplaner
 Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
