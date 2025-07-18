@@ -29,7 +29,11 @@ Se også [oversigten over forløb 🔗]({% link sider/forloeb.md %}).
 ## Grundbøger
 {% include eboeger.html %}
 
-## Filserver
-[Filserver](https://teams.microsoft.com/l/channel/19%3A5_Bl6iBH20GPeL46dR6__-7M8fwRG8LJf6eCK2_b82Q1%40thread.tacv2/General?groupId=fa21d06a-c4ed-4bbf-8082-b2f277f71ac0&tenantId=86fab2dc-170a-4f76-844b-d7dfdbdef3d8)
+## Materialer 
+Materialer kan findes her.
 
-[Sharepoint](https://edueucnvs.sharepoint.com/sites/DDU/Class%20Materials/Forms/AllItems.aspx)
+{% include link_by_id.html id="teams" %}
+
+{% include link_by_id.html id="sharepoint" %}
+
+
