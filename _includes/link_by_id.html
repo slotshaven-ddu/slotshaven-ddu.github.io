@@ -5,19 +5,19 @@
 
     {%- when "verbose" -%}
       <p>
-        <strong><a href="{{ link.link }}" target="_blank" rel="noopener">
+        <strong><a href="{{ link.url }}" target="_blank" rel="noopener">
           {{ link.name }} ↗️
         </a></strong><br>
         {{ link.description }}
       </p>
 
     {%- when "plain" -%}
-      <a href="{{ link.link }}" target="_blank" rel="noopener">
-        {{ link.link }} ↗️
+      <a href="{{ link.url }}" target="_blank" rel="noopener">
+        {{ link.url }} ↗️
       </a>
 
-    {%- else -%} {# default = simple #}
-      <a href="{{ link.link }}" target="_blank" rel="noopener">
+    {%- else -%} 
+      <a href="{{ link.url }}" target="_blank" rel="noopener">
         {{ link.name }} ↗️
       </a>
 
