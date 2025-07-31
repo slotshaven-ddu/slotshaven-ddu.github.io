@@ -24,7 +24,7 @@ Det er som sagt _udgangspunktet_.
 Afhængig af forløbets længde, projektets kompleksitet eller aftaler med læreren kan der afviges fra denne skabelon.
 
 Nedenfor beskrives rapportens udstyr og kapitler i den _anbefalede_ rækkefølge.  
-&#x1F517; Husk at kapitler altid begynder på en ny side med en overskrift på niveau 1.
+&#x2139; Husk at kapitler altid begynder på en ny side med en overskrift på niveau 1.
 
 ## Forsiden          
 Rapporten skal have en forside med   
@@ -311,7 +311,7 @@ Opgavenedbrydning har en række fordele. Efter nedbrydning kan opgaverne:
 - uddelegeres (tildeles en ejer)
 - annoteres (tildeles attributter)
 
-&#x1F517; Alle de nævnte handlinger understøttes af gængse projektstyringsværktøjer af en vis kvalitet.
+&#x2139; Alle de nævnte handlinger understøttes af gængse projektstyringsværktøjer af en vis kvalitet.
 
 Hvad er det optimale omfang på en opgave - hvordan nedbryder man? Her er et par forslag. 
 
