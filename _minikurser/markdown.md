@@ -27,7 +27,7 @@ Eksternt link - kopier symbol eller denne kode (som er Unicode med modifier)
 &#x2197;&#xFE0F;
 ```
 
-### INtern link
+### Internt link
 Internt link 🔗 kan skrives med &#x1F517; (`&#x1F517;`)
 
 ```

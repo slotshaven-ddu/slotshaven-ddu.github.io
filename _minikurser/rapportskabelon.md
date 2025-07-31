@@ -24,7 +24,7 @@ Det er som sagt _udgangspunktet_.
 Afhængig af forløbets længde, projektets kompleksitet eller aftaler med læreren kan der afviges fra denne skabelon.
 
 Nedenfor beskrives rapportens udstyr og kapitler i den _anbefalede_ rækkefølge.  
-:information_source: Husk at kapitler altid begynder på en ny side med en niveau 1-overskrift.
+&#x1F517; Husk at kapitler altid begynder på en ny side med en overskrift på niveau 1.
 
 ## Forsiden          
 Rapporten skal have en forside med   
@@ -299,7 +299,7 @@ Det er dog for bredt og løst og umuligt at arbejde med. Vi har brug for at at b
 Så det man har brug for, når man begynder på et nyt projekt og forsøger at danne sig et overblik, er _opgavenedbrydning_. 
 
 Hvad vil det sige? Det vil sige at man forsøger at definere alle de _delopgaver_ som man kan identificere, man _nedbryder_ altså den store opgave i en række små opgaver. 
-Ideen kendes fra princippet om hvordan man spiser en elefant - hvilket ikke er så svært: "En bid ad gangen". M
+Ideen kendes fra princippet om hvordan man spiser en elefant - hvilket ikke er så svært: "En bid ad gangen".
 
 Opgavenedbrydning har en række fordele. Efter nedbrydning kan opgaverne:
 
@@ -311,7 +311,7 @@ Opgavenedbrydning har en række fordele. Efter nedbrydning kan opgaverne:
 - uddelegeres (tildeles en ejer)
 - annoteres (tildeles attributter)
 
-:information_source: Alle de nævnte handlinger understøttes af gængse projektstyringsværktøjer af en vis kvalitet.
+&#x1F517; Alle de nævnte handlinger understøttes af gængse projektstyringsværktøjer af en vis kvalitet.
 
 Hvad er det optimale omfang på en opgave - hvordan nedbryder man? Her er et par forslag. 
 
