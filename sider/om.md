@@ -7,9 +7,9 @@ permalink: /om
 Teknikfaget Digitalt Design og Udvikling - eller kort: _DDU_ - er et 3.g's A-fag på HTX.
 
 ## Om faget
-I DDU arbejder man projektorienteret i længere forløb. Der er dermed mindre tavleundervining end i andre fag. Al projektarbejde foregår i grupper. Hvert forløb afsluttes med at der afleveres et produkt med tilhørende rapport. 
+I DDU arbejder man projektorienteret i længere forløb. Der er dermed mindre tavleundervisning end i andre fag. Alt projektarbejde foregår i grupper. Hvert forløb afsluttes med, at der afleveres et produkt med tilhørende rapport. 
 
-Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer til at udvikle et færdigt produkt som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
+Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 90 timer til at udvikle et færdigt produkt, som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
 
 [Læs mere om eksamen ↗️](sider/eksamen.md)
 
