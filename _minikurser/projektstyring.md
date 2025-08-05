@@ -1,6 +1,7 @@
 ---
 title: Projektstyring
 description: '- orden i sagerne'
+order: 0
 ---
 ## Indledning
 Projektstyring er et læringsmål i sig selv. Det forventes, at der arbejdes struktureret med planlægning og opgavenedbrydning i alle forløb. 

@@ -2,9 +2,11 @@
 author: MKM
 title: Markdown
 description: '- HTML på den simple måde'
+order: 10
 ---
 ## Indledning
-Markdown er ikke et formateringssprog.
+Markdown er ikke et formateringssprog. Det er en kortform af HTML.
+Det er ikke et krav at man kender til markdown - det er blot et nyttigt redskab til dokumentation - især hvis mamn anvender GitHub til versionsstyring og kodedeling.
 
 
 ## Symboler
