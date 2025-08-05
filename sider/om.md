@@ -9,11 +9,20 @@ Teknikfaget Digitalt Design og Udvikling - eller kort: _DDU_ - er et 3.g's A-fag
 ## Om faget
 I DDU arbejder man projektorienteret i længere forløb. Der er dermed mindre tavleundervisning end i andre fag. Alt projektarbejde foregår i grupper. Hvert forløb afsluttes med, at der afleveres et produkt med tilhørende rapport. 
 
+## Valgtemaer
+Spiludvikling (fordybelseområde) og Machine Learning. 
+
+## Nøgletemaer
+Nøgletemaer bliver introduceret som en række minikurser undervejs. 
+Minikurser introducer et emne eller værktøj som skal bruges i et bestemt forløb eller generelt hele året.
+[Læs mere om minikurser]({% link sider/minikurser.md %}) 
+
+## Eksamen
 Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 90 timer til at udvikle et færdigt produkt, som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
 
 [Læs mere om eksamen ↗️](sider/eksamen.md)
 
-## Slotshaven
+## Lokaler
 Undervisning foregår i lokale 73 og nogle gange i værkstedet i kælderen. 
 
 ## Læreplaner
