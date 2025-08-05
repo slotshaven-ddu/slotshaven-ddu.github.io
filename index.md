@@ -2,18 +2,8 @@
 title: Digitalt Design og Udvikling
 author: mkm
 ---
-
-
-## Temaer
-### Valgtemaer
-Spiludvikling og Machine Learning. 
-
-### Fordybelsesområde
-
-### Nøgletemaer
-Nøgletemaer bliver introduceret som en række minikurser undervejs. 
-Minikurser introducer et emne eller værktøj som skal bruges i et bestemt forløb eller generelt hele året.
-
+## Indledning
+Velkommen til DDU på Slottet! På disse sider findes en lang række nyttige og praktiske informationer om faget. 
 
 ## Forløb
 Året indeholder et kortere introduktionsforløb, 3 længere forløb og det afsluttende eksamensprojekt.
