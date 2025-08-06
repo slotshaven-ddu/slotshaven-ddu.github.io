@@ -68,6 +68,13 @@
   source: systime
   description: Systimes e-grundbog om design og udvikling af computerspil.
   url: https://computerspil.systime.dk/
+- name: 'Game Design - en introduktion'
+  published: true
+  id: gamedesign
+  category: ebog
+  source: praxis
+  description: E-bog om Game Design, en introduktion til spiludvikling.
+  url: https://online.praxis.dk/produkt/45822
 - name: Slotshaven Gymnasium
   published: false
   id: slotshaven
