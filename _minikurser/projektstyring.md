@@ -20,9 +20,8 @@ Der er mange forskellige metoder og teorier om optimal projektstyring. I det fø
 ## Værktøjer
 Der findes et utal af værktøjer der understøtter effektiv projektstyring. I DDU anvender vi i øjeblikket Trello.
 
-{% include link_by_id.html id="trello" %}
-
-I Trello arbejder manm med emner (_cards_, kort, opgaver) og tavler (_boards_) til at danne overblik.
+I Trello anvender man kort (_cards_, emner, opgaver) og tavler (_boards_) til at danne overblik.
+Et kort kan kategoriseres og tildeles attributter på et utal af måder - fx deadline, ejer, kategori, prioritet mv. 
 
 ## Kanban
 En typisk måde at organisere sit board er kanban. I sin simpleste form består det at tre kolonner som svarer til  emnets "tilstand" (_state_): 

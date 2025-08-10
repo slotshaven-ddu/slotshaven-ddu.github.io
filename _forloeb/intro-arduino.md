@@ -1,6 +1,7 @@
 ---
 title: Digital knap med lys og Arduino
 description: '- så er vi gang'
+periode: 'august - medio september'
 order: 0
 ---
 Det første projekt er en introduktion til faget – men også en genopfriskning af nogle af de væsentlige kompetencer fra 1.g og 2.g, som er lært engang men måske lidt glemt, og som vil være nyttige i faget.
