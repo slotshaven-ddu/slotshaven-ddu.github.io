@@ -33,3 +33,8 @@
   category: Spiludvikling
   description: I forløbet med spiludvikling bruger vi Unity
   url: https://unity.com/
+- name: xTool S1 laserskærer
+  id: xtools1
+  category: Laser
+  description: xTool S1 er en kraftfuld laserskærer, der kan bruges til at skære og gravere i forskellige materialer.
+  url: https://xtool.com/products/xtool-s1-laser-cutter

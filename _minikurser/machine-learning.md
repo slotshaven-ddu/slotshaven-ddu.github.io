@@ -1,6 +1,6 @@
 ---
 author: MKM
-title: Machine Learning
+title: Begreber i Machine Learning
 description: '- it is more fun to compute'
 order: 2
 ---

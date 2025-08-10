@@ -49,7 +49,7 @@ Således:
   <section>
     <h2>{{ item.name }}</h2>
     <p>{{ item.description }}</p>
-    <p><a href="{{ item.link }}" target="_blank" rel="noopener">PDF ↗️</a></p>
+    <p><a href="{{ item.url }}" target="_blank" rel="noopener">PDF ↗️</a></p>
   </section>
 {% endif %}
 {% endfor %}
@@ -63,7 +63,7 @@ Samme liste skrevet i markdown:
 
 {{ item.description }}
 
-[PDF ↗️]({{ item.link }}){:target="_blank" rel="noopener"}
+[PDF ↗️]({{ item.url }}){:target="_blank" rel="noopener"}
 
 {% endif %}
 {% endfor %}
