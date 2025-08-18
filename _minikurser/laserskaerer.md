@@ -12,24 +12,26 @@ Et godt produkt kan blive endnu bedre med et veldesignet fysisk produkt. Lasersk
 Laserskæreren kan skære i alt fra pap til chokoladekager så brug jeres fantasi.
 
 ## Model
-Vores laserskærer er xTool S1 (20W).
+Vores laserskærer er xTool S1 (40W).
 
 **Specifikationer**
-
-- Laser Power: 20W 
-- Spot Size: 0.08 × 0.06 mm
+- Laser Power: 40 W
+- Spot Size: 0.08 × 0.10 mm
 - Working Speed: Up to 600 mm/s
-- Working Area: 498 × 330 mm (20 W)
-- Connectivity: USB and Wi-Fi support
-- Supported Systems: Windows 10 or above, macOS, Android, iOS, and iPad
-- Software: Compatible with xTool Creative Space (XCS) and Lightburn
-- File Formats Supported: SVG, DXF, JPG, JPEG, PNG, BMP, TIF
+- Working Area: 498 × 319 mm
+- Output Voltage: 25 V, 11 A
+- Connection: USB and Wi-Fi supported
+- Supported Systems: Android, iOS, iPad, Windows 10 or above, macOS
+- Software Compatibility: XCS and Lightburn
+- Supported File Formats: SVG, DXF, JPG, JPEG, PNG, BMP, TIF
+- Product Weight: 20 kg
+- Product Size: 765 × 561 × 183 mm
 
 **Dokumentation**
 
-https://www.xtool.eu/products/xtool-s1-laser-cutter
+[Dokumentation](https://www.xtool.eu/products/xtool-s1-laser-cutter)
 
-https://support.xtool.com/search-result?q=xtool+s1
+[Specifikationer](https://support.xtool.com/search-result?q=xtool+s1)
 
 
 
