@@ -40,7 +40,7 @@ Valgtemaet Spiludvikling bliver udforsket i forløb [Spiludvikling med Unity] og
 Spiludvikling er samtidig _fordybelsesområde_. Det betyder, at det vil få særligt fokus og indgå som eksamenstema.
 
 ## Eksamen
-Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 90 timer til at udvikle et færdigt produkt, som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
+Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer til at udvikle et færdigt produkt, som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
 
 [Læs mere om eksamen ↗️](sider/eksamen.md)
 
