@@ -22,7 +22,7 @@ Vores laserskærer er xTool S1 (40W).
 - Output Voltage: 25 V, 11 A
 - Connection: USB and Wi-Fi supported
 - Supported Systems: Android, iOS, iPad, Windows 10 or above, macOS
-- Software Compatibility: XCS and Lightburn
+- Software Compatibility: xTool Creative Space (XCS) and Lightburn
 - Supported File Formats: SVG, DXF, JPG, JPEG, PNG, BMP, TIF
 - Product Weight: 20 kg
 - Product Size: 765 × 561 × 183 mm
