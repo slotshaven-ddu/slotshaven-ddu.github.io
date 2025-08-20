@@ -1,17 +1,22 @@
 ---
 author: MKM
 title: Laserskærer 
-description: '- '
+description: '- Tænd jeres lyssværd!'
 order: 30
 ---
 ## Indledning
-Under udarbejdelse.
-
 Et godt produkt kan blive endnu bedre med et veldesignet fysisk produkt. Laserskæreren gør det muligt at bygge smukke fysiske interfaces eller andet til ens produkt.
 
 Laserskæreren kan skære i alt fra pap til chokoladekager så brug jeres fantasi.
 
-## Model
+## Skæreemner
+Vi anvender normalt pap som materiale fordi det er hurtigere at skære i og billigere end træ.
+
+Den maksimale emne-størrelse er ca. 300x500 mm. 
+
+Vi arbejder som regel i emnetykkelser på 3 mm, men kan kan gå op til 6 mm. Alt derudover kun i  undtagelsestilfælde. 
+
+## Specifikationer
 Vores laserskærer er xTool S1 (40W).
 
 **Specifikationer**

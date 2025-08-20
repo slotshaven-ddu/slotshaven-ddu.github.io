@@ -3,7 +3,7 @@
   Usage: {% include collection_list.html collection="forloeb" %}
 {%- endcomment -%}
 
-<section class="collection-list" style="margin: 2em 0;">
+<section class="collection-list">
   {% assign collection = site[include.collection] | sort: "order" %}
   {% for item in collection %}
     <article class="collection-item" style="padding-bottom: 2em;">

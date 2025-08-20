@@ -44,6 +44,13 @@ Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer ti
 
 [Læs mere om eksamen ↗️](sider/eksamen.md)
 
+## Studietur
+Hvert år tager vi på studietur til Aarhus i september. Her besøger vi forskellige virksomheder, uddannelser og museer. Turen har et fagligt indhold så der vil være oplæg, rundvisninger og opgaver af faglig karakter. 
+
+Virksomhederne kan fx være spiludviklere der arbejder med Unity.  Museerne inkluderer som regel AROS og Moesgaard. 
+
+Programmet offentliggøres ca. en uge eller to før turen. 
+
 ## Laserskæreren
 I DDU gives der mulighed for at bygge fysiske produkter. Vi har både en laserskærer og 3D-printere til rådighed. Det er oplagt at overveje muligheden for at kombinere software med et fysisk interface hvis der er mulighed for det. 
 
@@ -58,8 +65,6 @@ Det er alles ansvar at lokale 73 og værksted bliver holdt pænt og ryddeligt. O
 Grej og udstyr stilles på plads og igangværende projekter placeres ad vejen efter lærerens direktiver.
 
 Brug af skraldespand og pantindsamler er derfor ligeledes obligatorisk. Det gælder nedtil hvert eneste stykke notespapir og og hver eneste dåse med energidrik.
-
-Manglende oprydning medfører sanktioner.
 
 ## Appendix: Læreplaner
 Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
