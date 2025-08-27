@@ -13,6 +13,7 @@ Vi tilbringer en del tid i værkstedet når vi bygger den fysiske del af produkt
 Dette forløb introducerer og genopfrisker en række arbejdsgange, værktøjer og begreber som vi skal anvende resten af skoleåret, fx: 
 
 - Idegenerering – knap og lys skal være en helhed (tema)
+- Laserskæreren i værkstedet - hvordan bruger man den?
 - Adobe Illustrator – til at lave skærefilerne til laserskæreren
 - El-lære – knappen skal jo skabe en elektrisk forbindelse, som kan aktivere Arduino’en
 - Programmering – Arduino’en skal styre lyset, når knappen trykkes ind

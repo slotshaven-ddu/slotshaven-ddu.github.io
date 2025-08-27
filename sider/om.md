@@ -49,7 +49,7 @@ Hvert år tager vi på studietur til Aarhus i september. Her besøger vi forskel
 
 Virksomhederne kan fx være spiludviklere der arbejder med Unity.  Museerne inkluderer som regel AROS og Moesgaard. 
 
-Programmet offentliggøres ca. en uge eller to før turen. 
+[Læs mere om studieturen ↗️](sider/studietur.md)
 
 ## Laserskæreren
 I DDU gives der mulighed for at bygge fysiske produkter. Vi har både en laserskærer og 3D-printere til rådighed. Det er oplagt at overveje muligheden for at kombinere software med et fysisk interface hvis der er mulighed for det. 
