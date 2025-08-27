@@ -42,14 +42,14 @@ Spiludvikling er samtidig _fordybelsesområde_. Det betyder, at det vil få sær
 ## Eksamen
 Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer til at udvikle et færdigt produkt, som afleveres med eksamensrapporten, hvorefter rapport og produkt forsvares til en mundtlig eksamen. Der gives en samlet karakter for rapport, produkt og mundtlig eksamination. 
 
-[Læs mere om eksamen ↗️](sider/eksamen.md)
+[Læs mere om eksamen ↗️]({% link sider/eksamen.md %})
 
 ## Studietur
 Hvert år tager vi på studietur til Aarhus i september. Her besøger vi forskellige virksomheder, uddannelser og museer. Turen har et fagligt indhold så der vil være oplæg, rundvisninger og opgaver af faglig karakter. 
 
 Virksomhederne kan fx være spiludviklere der arbejder med Unity.  Museerne inkluderer som regel AROS og Moesgaard. 
 
-[Læs mere om studieturen ↗️](sider/studietur.md)
+[Læs mere om studieturen ↗️]({% link sider/studietur.md %})
 
 ## Laserskæreren
 I DDU gives der mulighed for at bygge fysiske produkter. Vi har både en laserskærer og 3D-printere til rådighed. Det er oplagt at overveje muligheden for at kombinere software med et fysisk interface hvis der er mulighed for det. 
