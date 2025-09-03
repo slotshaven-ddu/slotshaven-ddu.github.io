@@ -61,13 +61,20 @@
   source: systime
   description: Systimes e-bog om projektarbejde, metoder og værktøjer til gymnasiet.
   url: https://projektarbejdet.systime.dk/
-- name: 'E-bog Computerspil - design og udvikling'
+- name: 'Computerspil'
   published: true
   id: computerspilbog
   category: ebog
   source: systime
   description: Systimes e-grundbog om design og udvikling af computerspil.
   url: https://computerspil.systime.dk/
+- name: 'E-bog Computerspil i dansk'
+  published: true
+  id: computerspilidansk
+  category: ebog
+  source: systime
+  description: Systimes e-grundbog om computerspil i danskfaget.
+  url: https://computerspilidansk.systime.dk/
 - name: 'Game Design - en introduktion'
   published: true
   id: gamedesign
