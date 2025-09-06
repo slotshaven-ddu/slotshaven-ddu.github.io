@@ -20,3 +20,8 @@ Dette forløb introducerer og genopfrisker en række arbejdsgange, værktøjer o
 - Funktionelt design – knap og lys skal virke
 - Projektstyring – der er kun 4 uger til hele projektet
 - Gruppearbejde – roller, aftaler, samarbejde
+
+
+## Tidligere projekter
+
+[2025-26](https://edueucnvs.sharepoint.com/sites/DDU/Class%20Materials/Forms/AllItems.aspx?id=%2Fsites%2FDDU%2FClass%20Materials%2Fdigital%2Dknap&p=true&ga=1)
