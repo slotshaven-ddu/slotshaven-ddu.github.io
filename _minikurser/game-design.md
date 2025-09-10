@@ -25,7 +25,7 @@ Her anføres det at tt GDD fx kan indeholde disse sektioner:
 - User Interface, Game Controls
 
 ## Spilcentrisk eller spillercentrisk?
-Man kan 
+Man kan anskue et spil fra to vinkler. Husk altid at holde rede på hvilken synvinkel som du bruger.
 
 ## Flow
 Gode gamle Csikszentmihalyi.
