@@ -18,6 +18,9 @@ Forløbet skal give forudsætninger for, at vi i de følgende forløb (herunder 
 - Fildeling og versionsstyring (med Unitys eget værktøj)
 - Projektstyring
 
+## Github
+[Repo på GitHub](https://github.com/slotshaven-ddu/unity-game)
+
 ## Litteratur
 Bøger om computerspil og spiludvikling på systime.
 
