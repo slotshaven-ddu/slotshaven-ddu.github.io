@@ -49,7 +49,7 @@ Det vil sige at ens _burn rate_ er for lav, eller at man har for få ressourcer,
 
 ## Roller (arbejdsfordeling)
 I mange grupper findes der en naturlig arbejdsdeling baseret på medlemmmernes kompetancer og interesser.
-Ved at fordele og tildele emner til gruppens medlemmer, kan mam tydeliggøre denne arbejdsdeling og fordele ansvaret for det samlede resultat. 
+Ved at fordele og tildele emner til gruppens medlemmer kan man tydeliggøre denne arbejdsdeling og fordele ansvaret for det samlede resultat. 
 Typiske roller er 
 
 - Projekleder (PL): opdaterer Trello, har overblikket
