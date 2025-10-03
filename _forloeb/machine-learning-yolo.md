@@ -20,18 +20,18 @@ Typiske formål med ML er fx
 ## Forløbet 
 Vi begynder med Googles Teachable Machine som er en blød introduktion til faget. 
 
-Derefter bygger vi vores egen model.
+Derefter bygger vi vores egen model med YOLO. Til det formål bruger vi YOLO som er et framework til objektgenkendelse. Det specielle ved YOLO er at det behandler billedet i en iteration og ikke trinvis.
+
+Vi bygger en model som kan genkende eller skelne mellem forskellig fysiske objekter eller bevægelser. 
 
 Først skal modellen trænes, så vi opbygger et træningsæt af billeder. 
 
-Når modellen er pålidelig, kan vi anvende outputtet i vores kode til at bygge interaktive installationer som reagerer på bestemte genstande. Til det formål bruger vi YOLO som er et framework til objektgenkendelse. Det specielle ved YOLO er at det behandler billedet i en iteration og ikke trinvis.
+Når modellen er pålidelig, kan vi anvende outputtet i vores kode til at bygge interaktive installationer som reagerer på bestemte genstande. 
 
-Med YOLO bygger vi en model som kan genkende eller skelne mellem forskellig fysiske objekter eller bevægelser. 
+## Faglige begreber
+Udover YOLO introducerer forløbet deep-learning biblioteker som fx TensorFlow og PyTorch, og vi arbejder med algoritmer som lineær regression, random forests og nearest neighbor. Vi taler også om forskellige typer af neurale netværk. 
 
-Udover YOLO introducerer forløbet deep-learning biblioteker som fx TensorFlow og PyTorch, og vi arbejder med algoritmer som lineær regression, random forests og nearest neighbor. VI taler også om forskellige typer af neurale netværk. 
-
-## Begreber
-Grundbegreber i ML er fx
+Undervejs vil I støde på en lang række kernebegreber i ML, fx
 
 - Recall
 - Loss
