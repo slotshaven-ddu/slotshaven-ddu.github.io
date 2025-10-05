@@ -1,7 +1,7 @@
 ---
 title: Rapport
 description: '- struktur og formalia'
-redirect_from: 
+redirect_from:
     - /minikurser/rapportskabelon/
 order: 1
 ---

@@ -1,7 +1,9 @@
 title: Digitalt Design og Udvikling
 description: Slotshaven Gymnasium
 theme: jekyll-theme-cayman
-
+plugins:
+  - jekyll-redirect-from
+  
 collections:
   test:
     output: true
