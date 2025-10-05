@@ -27,10 +27,14 @@ Teknisk information:
 
 - teknologistak (fx Unity-version)
 - platform (Steam, mobil etc.)
+- kravspecifikation
+
+Det endelige Game Design Document kan (bør) indeholde visuelle elementer, såsom karakterskitser, illustrationer, moodboards etc. for at give et komplet billede af spillets univers. Her kan med fordel anvendes AI.
+
 
 ## Begreber
 
-Her følger et udvalg af begreber fra som kan anvendes i dokumentet.
+Her følger et udvalg af begreber som kan tjene som inspiration til et godt GDD.
 
 **Spillertyper** Fx Bartles spillertyper: Killers, achievers, socializers and explorers.
 Der findes også Marczewskis Player and User Types.
