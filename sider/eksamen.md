@@ -5,13 +5,14 @@ description: '- alt om det afsluttende eksamenprojekt'
 permalink: /eksamen
 ---
 ## Introduktion
+
 Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er. 
 
 Beskrivelsen bygger på læreplanen for faget\ 
-[Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf) 
-
+[Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf)
 
 ## Eksamensform
+
 Eksamensprojektet udarbejdes med afsæt i et projektoplæg stillet af vejlederne. Projektet består af en rapport og tilhørende produkt.
 Eksamen minder på denne måde i form meget om eksamen i faget Teknologi. 
 
@@ -22,17 +23,21 @@ Rapport og produkt forsvares derefter ved en mundtlig prøve. Prøven er en grup
 Rapport, produkt og den mundtlige prøve udgør tilsammen bedømmelsesgrundlag for den endelige karakter (se afsnit om bedømmelse nedenfor). 
 
 ## Rapportens omfang
+
 Læreplanen for faget foreskriver, at rapportens omfang udgør _15-30 normalsider for en elev plus yderligere 5-15 sider pr. ekstra elev i gruppen_, hvor forside, indholdsfortegnelse, litteratur og kilder samt bilag (kode etc.) som sædvanlig ikke tælles med.
 
 Bemærk desuden, at gruppens samlede arbejde skal være af en sådan kvalitet og omfang, at det modsvarer antallet af gruppemedlemmer. 
 
 ## Arbejdsform
+
 Projektet udarbejdes i grupper på to til fire personer. Helt undtagelsesvis kan det tillades at en elev arbejder individuelt. Eleverne i en gruppe har fælles ansvar for det afleverede.
 
 ## Mødepligt
+
 Der er mødepligt i hele projektperioden med mindre andet aftales.
 
 ## Projektbeskrivelse
+
 Når grupperne er dannet og har valgt emne og tema, skal der aflevere en projektbeskrivelse.
 
 Projektbeskrivelsen skal godkendes af vejlederen, som blandt andet skal sikre at det faglige indhold ligger inden for fagets rammer og har et tilstrækkeligt og realistisk fagligt niveau. Det egentlige projektarbejde begynder først, når projektbeskrivelsen er godkendt af vejleder.
@@ -55,6 +60,7 @@ Fysiske objekter, der hører til produktet, skal afleveres på studieadministrat
 Virtuelle objekter implementeret i Unity eller lignende afleveres på USB-stik som packages med scener og prefabs etc., og med screenshots eller screencasts, der viser funktionaliteten, så vidt det er muligt. Det samme gælder .apk-filer/iOS-filer til installation på mobiltelefoner. I alle tilfælde skal produktet som helhed være ledsaget af tydelige anvisninger på hvordan det rent praktisk skal samles, installeres og startes, samt hvad det forudsætter hos brugeren af hardware, framework og opsætning.
 
 ## Bedømmelse
+
 Bedømmelsen er en vurdering af, i hvilket omfang jeres præstation lever op til de faglige mål, som er angivet i pkt. 2.1. i læreplanen:
 
 Der lægges vægt på:
