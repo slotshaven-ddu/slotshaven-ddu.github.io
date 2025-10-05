@@ -1,6 +1,7 @@
 ---
-title: Rapportskabelon
+title: Rapport
 description: '- struktur og formalia'
+redirect_from: /minikurser/rapportskabelon/
 order: 1
 ---
 Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.

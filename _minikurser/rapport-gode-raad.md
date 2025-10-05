@@ -1,6 +1,6 @@
 ---
 title: Gode råd om rapportskrivning
-description: '- '
+description: '- helt gratis'
 order: 2
 ---
 Her følger i stikordsform nogle formelle krav og venlige anbefalinger til hvordan man skriver en god rapport i DDU.
@@ -15,7 +15,7 @@ Brug
 - relevante citater
 - informative illustrationer - med forklaringer
 
-Alt dette for at underbygge din argumention og gøre den troværdig. 
+Alt dette for at underbygge din argumention og gøre den troværdig.
 
 Brug ikke
 
@@ -26,13 +26,13 @@ Brug gerne
 - korte introduktioner når du begynder nyt emne
 - korte afrundinger før du skifter emne
 
-gor at hjælpe læseren.
+Så gør du læseren en tjeneste.
 
 ## Kilder
 
 Husk:
 
-- Referencer på al teori, teser, påstande og argumenter
+- Referencer (kildehenvisninger) på al teori, teser, påstande og argumenter
 - Kildehenvisninger på alt eksternt materiale
 
 Det trækker ned _hver eneste gang_ man ikke gør det.

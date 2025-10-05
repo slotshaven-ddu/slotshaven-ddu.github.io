@@ -11,4 +11,3 @@ Virksomhederne kan fx være spiludviklere der arbejder med Unity.  Museerne inkl
 ## Program
 
 Programmet offentliggøres ca. en uge eller to før turen.
-

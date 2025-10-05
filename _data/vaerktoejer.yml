@@ -4,17 +4,17 @@
   description: Det forventes at alle formår at bruge GitHub til versionsstyring af kode.
   url: https://github.com/
 - name: GitHub Desktop
-- id: githubdesktop
+  id: githubdesktop
   category: Versionstyring
   description: GitHub Desktop er nemmere at bruge end kommandolinjeværktøjet git
   url: https://github.com/apps/desktop/
 - name: Visual Studio Code
   id: vscode
-  category: kode
+  category: Programmering
   description: Vi bruger Visual Studio Code til kodeudvikling
   url: https://code.visualstudio.com/
 - name: Trello
-- id: trello
+  id: trello
   category: Projektstyring
   description: Det forventes at der anvendes struktureret projektstyring i alle grupper. Vi bruger som udgangspunkt Trello.
   url: https://trello.com/
