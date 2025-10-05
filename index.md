@@ -16,14 +16,7 @@ Velkommen til DDU på Slottet! På disse sider findes en lang række nyttige og 
 
 Se også [oversigten over forløb &#x2197;]({% link sider/forloeb.md %}).
 
-## Grundbøger
+## E-bøger 
 {% include eboeger.html %}
-
-## Materialer 
-Materialer kan findes her.
-
-{% include link_by_id.html id="teams" %}
-
-{% include link_by_id.html id="sharepoint" %}
 
 

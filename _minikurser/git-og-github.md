@@ -3,6 +3,7 @@ author: MKM
 title: Git og Github
 description: '- kodestyring og forskellen på git og GitHub'
 order: 1
+published: false
 ---
 ## Git
 I disse moduler bliver du introduceret til et helt centralt samarbejdsredskab indenfor software udvikling: git. Git er et værktøj til source control. Når man programmerer og laver større it-projekter i det hele taget, er det supervigtigt at have styr på hvilke ændringer i koden der er lavet i hvilken rækkefølge, og af hvem. Det skal være muligt at gå tilbage til tidligere versioner, hvis noget viser sig at være forkert, og man skal sikre sig at de rettelser man laver ikke bliver overskrevet af andre, der også arbejder på projektet og som arbejder på andre dele af koden. Git er altså et versionsstyringsredskab, og et sådant ud over det sædvanlige.
