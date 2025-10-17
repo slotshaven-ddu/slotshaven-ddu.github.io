@@ -28,6 +28,11 @@
   category: Machine Learning
   description: I ML arbejdes der med YOLO fra Ultralytics, et python-framework til visuel objektgenkendelse
   url: https://docs.ultralytics.com/
+- name: Roboflow
+  id: Roboflow
+  category: Machine Learning
+  description: Tool for behandling af datasæt i ML
+  url: https://app.roboflow.com/
 - name: Unity
   id: unity
   category: Spiludvikling
