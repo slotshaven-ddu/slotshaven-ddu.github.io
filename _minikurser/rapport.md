@@ -46,7 +46,7 @@ Her samles **al** praktisk information om rapporten og projektet.
 - Rapportens titel
 - Fag og vejleder
 - Dato
-- Evt. nøgleord 
+- Evt. nøgleord
 - Evt. resume af opgaven (abstract)
 - Fulde navne, hold og årgang
 - Skolens navn og årstal
@@ -54,7 +54,7 @@ Her samles **al** praktisk information om rapporten og projektet.
 ## Indholdsfortegnelsen
 
 Dernæst følger en indholdsfortegnelse.
-Indholdsfortegnelsen skal indeholde sidenumre og være aktiv - henvisningerne skal være links. 
+Indholdsfortegnelsen skal indeholde sidenumre og være aktiv - henvisningerne skal være links.
 Forsøg at ramme en balanceret struktur og niveauinddeling med højest 2, måske 3 niveauer.
 
  Her følger et eksempel som inspiration - men det er ikke one-size-fits-all.

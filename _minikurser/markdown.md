@@ -58,3 +58,13 @@ I markdown (kopier kode).
 ``` markdown
 &#x1F517;
 ```
+
+## Flueben (checkmark)
+
+Flueben (checkmark) ✓ kan skrives med &#x2713; (`&#x2713;`)
+
+I markdown (kopier kode).
+
+``` markdown
+&#x2713;
+```

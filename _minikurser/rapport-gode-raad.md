@@ -26,7 +26,7 @@ Brug gerne
 - korte introduktioner når du begynder nyt emne
 - korte afrundinger før du skifter emne
 
-Så gør du læseren en tjeneste.
+Så gør du læseren en tjeneste. Korte introduktioner, overgange og opsamlinger løfter formidlingen, hjælper læseren og giver teksten en rød tråd - altså kort sagt: fortæl hvad har vi lige lært, hvad kommer nu - og hvorfor.
 
 ## Kilder
 

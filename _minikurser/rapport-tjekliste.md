@@ -1,16 +1,9 @@
 ---
-title: Tjekliste for rapportaflevering
-description: '- helt gratis'
+title: Tjekliste før rapportaflevering
+description: '- sæt de flueben &#x2713;'
 order: 3
 ---
-**Forbehold**: denne liste er subjektiv og tjener kun som inspiration.
-
-## Generelle råd
-
-- [ ] Husk korte introduktioner og opsamlinger - formidling for læserens skyld
-- [ ] Læsevenlighed (fx ingen sorte helsider med utydelig skrift)
-- [ ] Konsekvent, gennemført og ensartet sideopsætning og layout
-- [ ] Læs korrektur! Afsæt minimum 5 timer til korrektur
+**Forbehold**: denne liste er forholdsvist subjektiv.
 
 ## Formalia
 
@@ -21,20 +14,17 @@ order: 3
 - [ ] Hovedkapitler begynder på ny side
 - [ ] En korrekt og velstruktureret indholdsfortegnelse
 - [ ] Indholdsfortegnelsen er aktiv (dvs. med links)
-- [ ] Indholdsfortegnelsen har mindst et og højst to niveauer
+- [ ] Indholdsfortegnelsen har mindst et og helst ikke mere end to niveauer
 - [ ] Bilag inkluderes i indholdsfortegnelsen
 - [ ] Evt. sidehoveder og -fødder skal være korte og ikke støje
-- [ ] Gerne et diskret 5.element (+)
 
 ## Projektbeskrivelse
 
 - [ ] En velskrevet indledning som vækker læserens nysgerrighed
 - [ ] En præcis og velformuleret problemformulering som dækker opgavens indhold
-- [ ] 5-7 underspørgsmål (tekniske spørgsmål) som forholder sig til den givne opgaveformulering
-- [ ] Underspørgsmålene dækker bredt fagets emner og metoder, såsom teknologi, interaktionsdesign, design, projektstyring, udviklingsprincipper, målgruppe
-- [ ] Brainstorm med supplerende,  generelle overvejelser
-- [ ] Rollebeskrivelse (kort men præcist)
-- [ ] Projektstyring - beskriv anvendte værktøjer og metoder (hvis I har anvendt nogle)
+- [ ] Evt. 3-5 underspørgsmål (tekniske spørgsmål) som forholder sig til den givne opgaveformulering og anvendt teknologi
+- [ ] Evt. et kort afsnit med rollebeskrivelse (gruppemedlemmernes ansvar)
+- [ ] Evt. et kort afsnit om projektstyring (anvendte værktøjer og metoder)
 - [ ] Afgrænsning
 
 ## Problemanalyse
@@ -51,16 +41,14 @@ order: 3
 - [ ] Hele kapitlet afrundes i en samlet konklusion
 - [ ] Brug danske fagtermer hvis de findes
 
-Brug korte introduktioner, overgange og opsamlinger til at løfte formidlingen, hjælpe læseren og give teksten en rød tråd - altså hvad har vi lige lært, hvad kommer nu - og hvorfor.
-
 ## Koncept
 
 - [ ] Valg af titel
+- [ ] Præcis beskrivelse af ide som din bedstemor ville kunne forstå
 - [ ] Kravmatrix / kravspecification
 - [ ] En evt. kravmatrix stiller *variationer* af samme produkt op mod i hinanden (ikke fiktive ideer)
 - [ ] Beskriv og begrund tema (fx moodboard, farvevalg, skrifttyper, logo, 5. element)
-- [ ] Præcis beskrivelse af ide som din bedstemor ville kunne forstå
-- [ ] Video som sælger eller beskriver ideen
+- [ ] Evt. video som sælger eller beskriver ideen
 - [ ] Tidlige prototyper
 
 ## Forproduktion
@@ -77,7 +65,7 @@ Dette kapitel er ikke så teksttungt - derfor er det vigtigt at I introducerer, 
 - [ ] Billeder af alle skridt
 - [ ] Dokumentation af iterationer
 
-Dette kapitel er heller ikke så teksttungt så derfor er det vigtigt at dokumenterer alle skridt og beskriver hvad I gør.  Det giver rigtig goid mening af præsentere de erfaringer som I gjorrde undervejs, og hvilke ændringer det medførte.
+Dette kapitel er heller ikke så teksttungt så derfor er det vigtigt at dokumenterer alle skridt og beskriver hvad I gør.  Det giver rigtig god mening af præsentere de erfaringer som I gjorrde undervejs, og hvilke ændringer det medførte.
 
 ## Test
 
