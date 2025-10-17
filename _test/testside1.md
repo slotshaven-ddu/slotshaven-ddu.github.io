@@ -5,7 +5,7 @@ published: true
 permalink: /test
 author: ERL
 ---
-<p align="right"><img src="assets/logo.png" width="200"></p>
+<p align="right"><img src="assets/images/logo.png" width="200"></p>
 
 # {{ page.title }}
 

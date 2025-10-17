@@ -6,7 +6,7 @@ order: 2
 ---
 I dette forløb dykker vi ned i machine learning (ML). Vi skal se på grundbegreberne i ML og træne vores egen model med python. 
 
-<img src="/assets/gradient-descent.png" height="300">
+<img src="/assets/images/gradient-descent.png" height="300">
 
 ML er ikke det samme som AI, men sin egen disciplin i genren af intelligente systemer.
 Typiske formål med ML er fx

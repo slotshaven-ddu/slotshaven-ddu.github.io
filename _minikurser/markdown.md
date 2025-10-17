@@ -17,8 +17,8 @@ Det er ikke et krav at man kender til markdown - det er blot et nyttigt redskab 
 Logo som i dette dokument, med relativ eller absolut sti.
 
 ```html
-<p align="right"><img src="../assets/logo.png" width="200"></p>
-<p align="right"><img src="https://slotshaven-ddu.github.io/assets/logo.png" width="200"></p>
+<p align="right"><img src="../assets/images/logo.png" width="200"></p>
+<p align="right"><img src="https://slotshaven-ddu.github.io/assets/images/logo.png" width="200"></p>
 ```
 
 ### Højre pil &rarr;
