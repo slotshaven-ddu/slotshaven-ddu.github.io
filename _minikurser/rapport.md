@@ -128,11 +128,15 @@ De tekniske spørgsmål skal belyse de tekniske udfordringer som skal løses hvi
 
 De tager udgangspunkt i projektbeskrivelsen og problemformuleringen og _nedbryder_ disse i helt konkrete problemstillinger.  
 
-De begynder gerne med et "Hvordan ...".  Eksempel: 
+De begynder gerne med et "Hvordan ...".  Eksempel:
 
 > "Hvordan kan man anvende protokol X til at kommunikere mellem Y og Z".
 
-Termen "teknisk" skal forstås bredt - det betyder i denne sammenhæng først og fremmest at der lægges vægt på en videnskabelig, faktabaseret analyse af disse spørgsmål. Så i den henseende kan et teknisk spørgsmål sagtens handle om målgrupper eller interaktiondesign. 
+Termen "teknisk" skal forstås bredt - det betyder i denne sammenhæng først og fremmest at der lægges vægt på en videnskabelig, faktabaseret analyse af disse spørgsmål. Så i den henseende kan et teknisk spørgsmål sagtens handle om målgrupper eller interaktiondesign.
+
+### Projektstyring
+
+Beskriv hvordan der arbejdes med projektstyring - metoder og værktøjer, herunder også gerne rollefordeling i gruppen. Se også [side om projektstyring &#x2197;]({% link _minikurser/projektstyring.md %}).
 
 ### Afgrænsning
 
