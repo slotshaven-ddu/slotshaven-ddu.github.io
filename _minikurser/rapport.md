@@ -67,12 +67,13 @@ Forsøg at ramme en balanceret struktur og niveauinddeling med højest 2, måske
 1.4 Afgrænsning
 
 2. Problemanalyse  
-2.1 Analyse af teknisk spørgsmål 1  
-2.2 Analyse af teknisk spørgsmål 2  
-2.3 Analyse af teknisk spørgsmål 3  
-2.4 Opsamling på delkonklusioner  
+2.1 Analyse af teknisk spørgsmål 1
+2.2 Analyse af teknisk spørgsmål 2
+2.3 Analyse af teknisk spørgsmål 3
+2.4 Opsamling på delkonklusioner
+2.5 Kravspecifikation
 
-3. Konceptualisering  
+3. Konceptualisering
 3.1 Regler
 3.2 Design
 3.3 Interaktion 
@@ -149,15 +150,19 @@ I problemanalysen analyseres de opstillede spørgsmål fra projektbeskrivelsen.
 Det nemmeste er at behandle hvert spørgsmål i sit eget afsnit eller underkapitel.
 Har man 5 spørgsmål, får man altså fem afsnit. 
 
-I disse afsnit analyseres problemet med hjælp af de gængse videnskabelige metoder som man har lært. Videnskabelige artikler, feltstudier, online-research, sammenligning, test osv. 
+I disse afsnit analyseres problemet med hjælp af de gængse videnskabelige metoder som man har lært. Videnskabelige artikler, feltstudier, online-research, sammenligning, test osv.
 
 Hvert afsnit rundes af med en _delkonklusion_ - en opsummering af resultaterne af analysen i dette afsnit.
 
 Den _samlede_ problemanalyse rundes af med en sammenfatning af alle delkonklusionerne.
 
-Denne sammenfatning beskriver overordnet _konsekvenserne_ af analyseresultaterne - hvilken betydning har de for teknologivalget/produktet/implementeringen osv. 
+Denne sammenfatning beskriver overordnet _konsekvenserne_ af analyseresultaterne - hvilken betydning har de for teknologivalget/produktet/implementeringen osv.
 
 Ergo: analysen viste det og det, og det betyder at vi har valgt den og den løsning.
+
+Nu er man klar til at opstille sin kravspecifikation. Husk hvad der gælder: krav er målelige, specifikke og relevante.
+Husk kategorier: minimum (MVP) vs. ønskelige (eller need vs. nice), funktionel vs. non-funktionel mv.
+Det behøver ikke at være i tabelformat (det bliver sjældent pænt).
 
 ## Kapitel: Konceptudvikling
 
