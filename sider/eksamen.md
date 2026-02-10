@@ -1,32 +1,31 @@
 ---
 author: MKM
-title: Eksamen (opdateres)
+title: Eksamen
 description: '- alt om det afsluttende eksamenprojekt'
 permalink: /eksamen
 ---
 ## Introduktion
 
-Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er. 
+Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er.
 
-Beskrivelsen bygger på læreplanen for faget - se  
-[Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf)
+Beskrivelsen bygger på læreplanen for faget - se [Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf)
 
 ## Eksamensform
 
 Eksamensprojektet udarbejdes med afsæt i et projektoplæg stillet af vejlederne. Projektet består af en rapport og tilhørende produkt.
-Eksamen minder på denne måde i form meget om eksamen i faget Teknologi. 
+Eksamen minder på denne måde i form meget om eksamen i faget Teknologi.
 
 Der er afsat 80 timer over en periode på ca. 8 uger i perioden februar-maj.
 
-Rapport og produkt forsvares derefter ved en mundtlig prøve. Prøven er en gruppeeksamen. Der er afsat en halv time til hver elev. 
+Rapport og produkt forsvares derefter ved en mundtlig prøve. Prøven er en gruppeeksamen. Der er afsat en halv time til hver elev.
 
-Rapport, produkt og den mundtlige prøve udgør tilsammen bedømmelsesgrundlag for den endelige karakter (se afsnit om bedømmelse nedenfor). 
+Rapport, produkt og den mundtlige prøve udgør tilsammen bedømmelsesgrundlag for den endelige karakter (se afsnit om bedømmelse nedenfor).
 
 ## Rapportens omfang
 
 Læreplanen for faget foreskriver, at rapportens omfang udgør _15-30 normalsider for en elev plus yderligere 5-15 sider pr. ekstra elev i gruppen_, hvor forside, indholdsfortegnelse, litteratur og kilder samt bilag (kode etc.) som sædvanlig ikke tælles med.
 
-Bemærk desuden, at gruppens samlede arbejde skal være af en sådan kvalitet og omfang, at det modsvarer antallet af gruppemedlemmer. 
+Bemærk desuden, at gruppens samlede arbejde skal være af en sådan kvalitet og omfang, at det modsvarer antallet af gruppemedlemmer.
 
 ## Arbejdsform
 
@@ -44,18 +43,18 @@ Projektbeskrivelsen skal godkendes af vejlederen, som blandt andet skal sikre at
 
 ## Aflevering
 
-**Trykt rapport**. (Revideres) Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen. 
+**Trykt rapport**. (Revideres) Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
 
 Husk derudover kopier til jer selv. Det er jeres ansvar at indsatte diagrammer og fotos etc. samt bilag såsom kildekode, screenshots og datablade, alt sammen er tydeligt læseligt og uden mangler, så sørg nu for at se filer og dokumenter igennem en sidste gang, når I har genereret det der skal afleveres, før I afleverer det.
 
-**Elektronisk form.** For det andet afleveres rapporten i elektronisk form på eksamensopgaven i Lectio. 
+**Elektronisk form.** For det andet afleveres rapporten i elektronisk form på eksamensopgaven i Lectio.
 
 **Produkt**
-(Revideres) Det tilhørende produkt afleveres i en form/på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede. 
+(Revideres) Det tilhørende produkt afleveres i en form/på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede.
 
-Software afleveres som kodefiler på et USB-stik samt eventuelt i form af et link til et GitHub-repo eller lignende (og her lægges også en digital kopi af rapporten). 
+Software afleveres som kodefiler på et USB-stik samt eventuelt i form af et link til et GitHub-repo eller lignende (og her lægges også en digital kopi af rapporten).
 
-Fysiske objekter, der hører til produktet, skal afleveres på studieadministrationen eller til læreren, på en form så de kan opbevares og om nødvendigt flyttes uden at tage skade, og så det er tydeligt hvordan de skal samles og forbindes, hvis de er skilt ad i flere dele. 
+Fysiske objekter, der hører til produktet, skal afleveres på studieadministrationen eller til læreren, på en form så de kan opbevares og om nødvendigt flyttes uden at tage skade, og så det er tydeligt hvordan de skal samles og forbindes, hvis de er skilt ad i flere dele.
 
 Virtuelle objekter implementeret i Unity eller lignende afleveres på USB-stik som packages med scener og prefabs etc., og med screenshots eller screencasts, der viser funktionaliteten, så vidt det er muligt. Det samme gælder .apk-filer/iOS-filer til installation på mobiltelefoner. I alle tilfælde skal produktet som helhed være ledsaget af tydelige anvisninger på hvordan det rent praktisk skal samles, installeres og startes, samt hvad det forudsætter hos brugeren af hardware, framework og opsætning.
 
