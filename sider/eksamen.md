@@ -8,7 +8,7 @@ permalink: /eksamen
 
 Dette dokument beskriver de generelle forhold ved det afsluttende eksamensprojekt i DDU. Dokumentet indeholder *ikke* beskrivelser af de konkrete eksamensopgaver. Disse vil blive offentliggjort når tiden er. 
 
-Beskrivelsen bygger på læreplanen for faget\ 
+Beskrivelsen bygger på læreplanen for faget - se  
 [Læreplan for DDU &#x2197;&#xFE0F;](https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/htx/teknikfag-a-digitalt-design-og-udvikling-htx-august-2017.pdf)
 
 ## Eksamensform
