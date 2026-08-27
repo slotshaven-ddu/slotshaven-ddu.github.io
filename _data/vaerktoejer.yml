@@ -38,6 +38,11 @@
   category: Spiludvikling
   description: I forløbet med spiludvikling bruger vi Unity
   url: https://unity.com/
+- name: Godot
+  id: godot
+  category: Spiludvikling
+  description: I forløbet med spiludvikling bruger vi Godot
+  url: https://godotengine.org/
 - name: xTool S1 laserskærer
   id: xtools1
   category: Laser

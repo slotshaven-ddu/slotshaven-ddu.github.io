@@ -39,7 +39,7 @@ Derudover indgår nøgletemaerne i de enkelte forløb som som en naturlig del af
 
 På Slotshaven har vi valgtemaerne **Spiludvikling** (#12) og **Intelligente systemer** (#11).
 
-Valgtemaet Spiludvikling bliver udforsket i forløb [Spiludvikling med Unity] og Intelligente systemer i forløbet Machine learning med YOLO.
+Valgtemaet Spiludvikling bliver udforsket i forløb Spiludvikling med Godot og Intelligente systemer i forløbet Machine learning med YOLO.
 
 Spiludvikling er samtidig _fordybelsesområde_. Det betyder, at det vil få særligt fokus og indgå som eksamenstema.
 
