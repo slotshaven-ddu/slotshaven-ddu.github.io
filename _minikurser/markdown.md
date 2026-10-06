@@ -8,7 +8,7 @@ published: false
 ## Indledning
 
 Markdown er ikke et formateringssprog. Det er en kortform af HTML.
-Det er ikke et krav at man kender til markdown - det er blot et nyttigt redskab til dokumentation - især hvis mamn anvender GitHub til versionsstyring og kodedeling.
+Det er ikke et krav at man kender til markdown - det er blot et nyttigt redskab til dokumentation - især hvis man anvender GitHub til versionsstyring og kodedeling.
 
 ## Symboler
 

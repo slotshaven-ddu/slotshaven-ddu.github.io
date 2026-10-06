@@ -3,6 +3,7 @@ title: Spiludvikling med Unity
 description: '- i 3D (eller 2)'
 periode: 'medio september - efterårsferie'
 order: 1
+published: false
 ---
 Dette forløb skal introducere til **Unity som Game Engine** og som udviklingsplatform, og samtidig introducere til **centrale begreber og koncepter inden for Game Design**: Spilgenrer, spillertyper, kriterier for succes i spillet, spil-mekanik, -dynamik og -æstetik (MDA).
 
