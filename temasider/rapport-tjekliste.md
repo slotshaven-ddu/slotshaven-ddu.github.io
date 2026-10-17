@@ -1,7 +1,7 @@
 ---
 title: Tjekliste før rapportaflevering
 description: '- sæt de flueben &#x2713;'
-order: 3
+permalink: rapport-tjekliste
 ---
 **Forbehold**: denne liste er forholdsvist subjektiv.
 

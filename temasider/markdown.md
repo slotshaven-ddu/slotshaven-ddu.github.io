@@ -2,7 +2,7 @@
 author: MKM
 title: Markdown
 description: '- HTML på den simple måde'
-order: 30
+permalink: markdown
 published: false
 ---
 ## Indledning
@@ -31,7 +31,7 @@ Kopier symbol eller denne kode
 
 ### Link 1 ↗
 
-Den nord-østlieg pil &#x2197; bruger vi internt link.
+Den nord-østlige pil &#x2197; bruger vi internt link.
 
 I markdown (kopier kode).
 

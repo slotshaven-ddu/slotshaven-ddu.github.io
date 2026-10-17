@@ -1,7 +1,7 @@
 ---
 title: Projektstyring
 description: '- orden i sagerne'
-order: 0
+permalink: projektstyring
 ---
 ## Indledning
 

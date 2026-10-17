@@ -2,7 +2,7 @@
 author: MKM
 title: Laserskærer 
 description: '- Tænd jeres lyssværd!'
-order: 30
+permalink: laserskaerer
 ---
 ## Indledning
 

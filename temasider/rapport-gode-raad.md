@@ -1,7 +1,7 @@
 ---
 title: Gode råd om rapportskrivning
 description: '- helt gratis'
-order: 2
+permalink: rapport-gode-raad
 ---
 Her følger i stikordsform nogle formelle krav og venlige anbefalinger til hvordan man skriver en god rapport i DDU.
 

@@ -2,7 +2,7 @@
 author: MKM
 title: Begreber i Machine Learning
 description: '- it is more fun to compute'
-order: 15
+permalink: machine-learning
 published: false
 ---
 ## Introduktion
