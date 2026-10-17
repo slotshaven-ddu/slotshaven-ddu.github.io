@@ -6,7 +6,7 @@ Velkommen til DDU på Slottet! På disse sider findes en lang række nyttige og 
 
 Teknikfaget Digitalt Design og Udvikling - eller kort: _DDU_ - er et 3.g's A-fag på HTX.
 
-## Hvad laver vi I DDU?
+## Hvad laver vi i DDU?
 
 I DDU arbejder man projektorienteret i længere [forløb &#x2197;]({% link sider/forloeb.md %}). Der er dermed mindre tavleundervisning end i andre fag. Alt projektarbejde foregår i grupper. Hvert forløb afsluttes med, at der afleveres et produkt med tilhørende rapport. 
 

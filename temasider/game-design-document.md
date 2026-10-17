@@ -2,6 +2,7 @@
 author: MKM
 title: Game Design Document
 description: '- up dit game'
+permalink: game-design-document
 ---
 Det kræver mange forskellige faglige kompetencer at udvikle et vellykket spil. Derfor begynder man ofte udviklingen af et nyt koncept med at udarbejde et Game Design Document (GDD).
 
