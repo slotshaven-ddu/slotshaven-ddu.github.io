@@ -137,7 +137,7 @@ Termen "teknisk" skal forstås bredt - det betyder i denne sammenhæng først og
 
 ### Projektstyring
 
-Beskriv hvordan der arbejdes med projektstyring - metoder og værktøjer, herunder også gerne rollefordeling i gruppen. Se også [side om projektstyring &#x2197;]({% link _minikurser/projektstyring.md %}).
+Beskriv hvordan der arbejdes med projektstyring - metoder og værktøjer, herunder også gerne rollefordeling i gruppen. Se også [side om projektstyring &#x2197;]({% link temasider/projektstyring.md %}).
 
 ### Afgrænsning
 
