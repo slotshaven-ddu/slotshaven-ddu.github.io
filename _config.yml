@@ -19,20 +19,13 @@ defaults:
     values:
       permalink: /:slug/ # Default permalink for pages in the sider directory
   - scope:
+      path: "temasider"
+    values:
+      permalink: /:slug/ # Default permalink for pages in the temasider directory
+  - scope:
       path: ""
       type: forloeb  # Name of the collection
     values:
       published: true
       layout: default
-  - scope:
-      path: ""
-      type: minikurser  # Name of the collection
-    values:
-      published: true
-      layout: default
-  - scope:
-      path: ""
-      type: test  # Name of the collection
-    values:
-      published: true
-      layout: default # Change this if you want a different layout for the test collection
+  

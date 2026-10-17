@@ -50,13 +50,11 @@ Husk derudover kopier til jer selv. Det er jeres ansvar at indsatte diagrammer o
 **Elektronisk form.** For det andet afleveres rapporten i elektronisk form på eksamensopgaven i Lectio.
 
 **Produkt**
-(Revideres) Det tilhørende produkt afleveres i en form/på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede.
+Det tilhørende produkt afleveres i en form/på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede.
 
 Software afleveres som kodefiler på et USB-stik samt eventuelt i form af et link til et GitHub-repo eller lignende (og her lægges også en digital kopi af rapporten).
 
 Fysiske objekter, der hører til produktet, skal afleveres på studieadministrationen eller til læreren, på en form så de kan opbevares og om nødvendigt flyttes uden at tage skade, og så det er tydeligt hvordan de skal samles og forbindes, hvis de er skilt ad i flere dele.
-
-Virtuelle objekter implementeret i Unity eller lignende afleveres på USB-stik som packages med scener og prefabs etc., og med screenshots eller screencasts, der viser funktionaliteten, så vidt det er muligt. Det samme gælder .apk-filer/iOS-filer til installation på mobiltelefoner. I alle tilfælde skal produktet som helhed være ledsaget af tydelige anvisninger på hvordan det rent praktisk skal samles, installeres og startes, samt hvad det forudsætter hos brugeren af hardware, framework og opsætning.
 
 ## Bedømmelse
 

@@ -84,7 +84,7 @@ Her følger en generel beskrivelse af hvordan og hvorfor man nedbryder opgaver i
 
 Når man er færdig med sin projektbeskrivelse og problemformuleringen, har man i princippet den opgave der skal løses - nemlig "gør det som der står". Det er dog ikke så simpelt.
 
-Hvis man fx skulle lave et unity-spil og en tilhørende rapport, kunne man begynde med at opstille disse opgaver:
+Hvis man fx skulle lave et Godot-spil og en tilhørende rapport, kunne man begynde med at opstille disse opgaver:
 
 (1) Lav spil
 (2) Skriv rapport

@@ -2,9 +2,6 @@
 author: MKM
 title: Game Design Document
 description: '- up dit game'
-redirect_from:
-    - /minikurser/game-design/
-order: 10
 ---
 Det kræver mange forskellige faglige kompetencer at udvikle et vellykket spil. Derfor begynder man ofte udviklingen af et nyt koncept med at udarbejde et Game Design Document (GDD).
 
@@ -25,12 +22,11 @@ Der er ingen officiel standard for et GDD. Generelt kan det indeholde en beskriv
 
 Teknisk information:
 
-- teknologistak (fx Unity-version)
+- teknologistak (game engine etc.)
 - platform (Steam, mobil etc.)
 - kravspecifikation
 
-Det endelige Game Design Document kan (bør) indeholde visuelle elementer, såsom karakterskitser, illustrationer, moodboards etc. for at give et komplet billede af spillets univers. Her kan med fordel anvendes AI.
-
+Det endelige Game Design Document kan (bør) indeholde visuelle elementer, såsom karakterskitser, illustrationer, moodboards etc. for at give et komplet billede af spillets univers. 
 
 ## Begreber
 

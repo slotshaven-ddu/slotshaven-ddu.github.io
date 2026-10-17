@@ -2,7 +2,6 @@
 author: MKM
 title: Diagrammer
 description: '- siger mere end tusind ord'
-order: 5
 published: false
 ---
 ## Indledning

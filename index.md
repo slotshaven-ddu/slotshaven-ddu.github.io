@@ -13,11 +13,8 @@ Velkommen til DDU på Slottet! På disse sider findes en lang række nyttige og 
 - [Forløb 0: Introduktion ↗]({% link _forloeb/intro.md %})
 - [Forløb 1: Spiludvikling med Godot ↗]({% link _forloeb/godot-game.md %})
 - [Forløb 2: Machine learning med YOLO ↗]({% link _forloeb/machine-learning-yolo.md %})
-- [Forløb 3: Netværk, Arduino og Hue ↗]({% link _forloeb/network-arduino-hue.md %})
+<!-- - [Forløb 3: Netværk, Arduino og Hue ↗]({% link _forloeb/network-arduino-hue.md %}) -->
+- Forløb 3: Beskrivelse følger]
 - [Afsluttende eksamensprojekt ↗]({% link _forloeb/eksamensprojekt.md %})
 
 Se også [oversigten over forløb &#x2197;]({% link sider/forloeb.md %}).
-
-## E-bøger
-
-{% include eboeger.html %}

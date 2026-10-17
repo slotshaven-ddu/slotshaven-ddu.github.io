@@ -51,43 +51,10 @@ Det afsluttende eksamensprojekt er også gruppebaseret. Her får man 80 timer ti
 
 ## Studietur
 
-Hvert år tager vi på studietur til Aarhus i september.
+Hvert år tager vi på studietur til Aarhus i september. Her besøger vi forskellige virksomheder, uddannelser og museer. Turen har et fagligt indhold så der vil være oplæg, rundvisninger og opgaver af faglig karakter.
 
-[Læs mere om studieturen ↗️]({% link sider/studietur.md %})
+Virksomhederne kan fx arbejde professionelt med spiludvikling. Museerne inkluderer som regel AROS og Moesgaard.
 
-## Laserskæreren
+## Laserskærer og 3D-printere
 
-I DDU gives der mulighed for at bygge fysiske produkter. Vi har både en laserskærer og 3D-printere til rådighed. Det er oplagt at overveje muligheden for at kombinere software med et fysisk interface hvis der er mulighed for det. 
-
-Vores laserskærer er xTool S1. 
-
-Brug af laserskærer er kun efter aftale med Henrik eller en lærer.
-
-## Lokaler
-
-Undervisning foregår i lokale 73 og nogle gange i værkstedet i kælderen.
-
-Oprydning efter undervisningen er **obligatorisk**.
-
-Det er alles ansvar at lokale 73 og værksted bliver holdt pænt og ryddeligt.
-Grej og udstyr stilles på plads og igangværende projekter placeres ad vejen efter lærerens direktiver. Aluminium er et dyrt råstof - brug pantsamleren på gangen til dåser.
-
-## Appendix: Læreplaner
-
-Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
-
-{% for item in site.data.links %}
-{% if item.source == "uvm" %}
-
-**{{ item.name }}** 
-
-{{ item.description }}
-
-[↗️ PDF]({{ item.url }}){:target="_blank" rel="noopener"}
-
-{% endif %}
-{% endfor %}
-
-## Bogmærker
-
-Se også [bogmærker]({% link sider/bogmaerker.md %}).
+Vi har både en laserskærer og 3D-printere til rådighed og bruger ofte værkstedet i vores forløb.
