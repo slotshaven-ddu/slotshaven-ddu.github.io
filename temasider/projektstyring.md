@@ -3,11 +3,7 @@ title: Projektstyring
 description: '- orden i sagerne'
 permalink: projektstyring
 ---
-## Indledning
-
 Projektstyring er et læringsmål i sig selv. Det forventes, at der arbejdes struktureret med planlægning og opgavenedbrydning i alle forløb. 
-
-Til projektstyring findes en lang teorier og metoder. Et velkendt eksempel er _scrum_. 
 
 ## Hvorfor projektstyring?
 

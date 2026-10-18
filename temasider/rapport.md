@@ -5,11 +5,15 @@ permalink: rapport
 redirect_from:
     - /minikurser/rapportskabelon/
 ---
-Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
+Nedenfor følger et forslag til en rapportstruktur. 
+
+## Forbehold - ikke to projekter er ens
+
+Denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
 
 ## Struktur
 
-Som udgangspunkt indeholder en tekniksfagsrapport i DDU følgende kapitler:
+Som udgangspunkt kan en tekniksfagsrapport i DDU indeholde følgende kapitler:
 
 - [Projektbeskrivelse](#kapitel-projektbeskrivelse)  med problemformulering
 - [Problemanalyse](#kapitel-problemanalyse)
