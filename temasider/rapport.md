@@ -7,6 +7,11 @@ redirect_from:
 ---
 Nedenfor følger et forslag til en rapportstruktur. 
 
+Se også de andre guides til rapportskrivning:
+
+- [Tjeklisten &#x2197;]({% link temasider/rapport-tjekliste.md %})
+- [Gode råd &#x2197;]({% link temasider/rapport-gode-raad.md %})
+
 ## Forbehold - ikke to projekter er ens
 
 Denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
